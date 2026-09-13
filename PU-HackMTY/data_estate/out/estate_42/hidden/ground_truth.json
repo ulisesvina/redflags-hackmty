@@ -1,0 +1,164 @@
+{
+  "seed": 42,
+  "company_rfc": "TIN091214KL3",
+  "schemes": [
+    {
+      "scheme_id": "S1_phantom_vendor_1",
+      "type": "phantom_vendor",
+      "difficulty": "easy",
+      "entities": [
+        "RFC:COL040206DTB",
+        "RFC:IHV020423VE4"
+      ],
+      "supporting_invoices": [
+        "1752815C-BCBF-1583-0A01-75E5937D6FB1",
+        "2CD51392-D98F-5E83-CF5B-294DD2CC4853",
+        "4E39F65A-20DB-4294-DFAE-180393D797E7",
+        "4F70B88B-F06C-69D9-9339-304B9A8CB3D7",
+        "663463E9-D317-D8C9-1060-573A721B7707",
+        "8D783178-C935-A278-9645-DEC1840D214B",
+        "B2AC4768-F122-4F43-C527-4F356DC56044",
+        "C0AC1C00-AF8E-26B2-6CFB-F1736B4D3D1A",
+        "E75182A4-F481-38B5-6395-09C4119A7396",
+        "FA2C9E79-2758-4F1A-239E-5593EC11A44D"
+      ],
+      "supporting_txns": [
+        "TX00022",
+        "TX00030",
+        "TX00078",
+        "TX00183",
+        "TX00189",
+        "TX00269",
+        "TX00312",
+        "TX00358",
+        "TX00375",
+        "TX00434"
+      ],
+      "peso_amount": 2070600.0
+    },
+    {
+      "scheme_id": "S2_kickback_1",
+      "type": "kickback",
+      "difficulty": "medium",
+      "entities": [
+        "EMP:00002",
+        "RFC:EOK870428F5T"
+      ],
+      "supporting_invoices": [
+        "08D16094-B6E3-B91B-3777-D8232D8D7DB8",
+        "23E7CD20-700E-A842-F334-685DB6AD478C",
+        "3332432B-3D10-FA95-E8A4-42385FE8B710",
+        "38772265-102C-01A3-AB40-4598AE11D3C2",
+        "71A91C81-4EEE-5680-B0BA-8FE363FF910D",
+        "BDCF6FD4-88DF-12C1-1FC8-628D4B4D1079",
+        "BFEEB533-ACF5-9149-B1C9-D0DCA38CC35F",
+        "EAC97D37-B587-8D33-1D5B-D8B04027B283"
+      ],
+      "supporting_txns": [
+        "CP00002",
+        "CP00003",
+        "CP00007",
+        "CP00008",
+        "CP00010",
+        "CP00014",
+        "CP00016",
+        "CP00020",
+        "TX00079",
+        "TX00086",
+        "TX00111",
+        "TX00112",
+        "TX00158",
+        "TX00273",
+        "TX00341",
+        "TX00438"
+      ],
+      "peso_amount": 575360.0
+    },
+    {
+      "scheme_id": "S3_round_tripping_1",
+      "type": "round_tripping",
+      "difficulty": "hard",
+      "entities": [
+        "RFC:OEF190714EHM",
+        "RFC:PZS930606W5L"
+      ],
+      "supporting_invoices": [
+        "54CE20EA-BB9D-92C0-D8D0-B8DB3AA06694",
+        "7FAC89FE-5FE0-C7C3-2336-D60B0F571D6B",
+        "991B749E-B9AD-D00A-EC64-8A9B3CF1C29E",
+        "A1396D49-713E-9035-2EFC-D60C5256CD59",
+        "A4C31AF7-514A-36BF-4733-4B73225F52AB",
+        "EAECF4E0-E819-09CE-0DD7-CAC28A1055C5"
+      ],
+      "supporting_txns": [
+        "CP00013",
+        "CP00018",
+        "CP00022",
+        "TX00266",
+        "TX00279",
+        "TX00424",
+        "TX00435",
+        "TX00476",
+        "TX00485"
+      ],
+      "peso_amount": 1029000.0
+    }
+  ],
+  "decoys": [
+    {
+      "entity": "RFC:JMK241214132",
+      "signal": "New vendor + round amounts (EFOS smell)",
+      "why_innocent": "Goods receipts exist for every invoice, warehouse-signed; not on 69-B; active RFC.",
+      "invoices": []
+    },
+    {
+      "entity": "RFC:SZC9707063JK",
+      "signal": "Name almost matches 69-B entry 'Refacciones San Nicolás S de RL de CV' (TAO890114RLQ)",
+      "why_innocent": "69-B is matched on RFC, not name. RFC differs; deliveries documented.",
+      "invoices": []
+    },
+    {
+      "entity": "RFC:LPK240212P77",
+      "signal": "Shares address with Grupo del Norte SAPI de CV (S00024)",
+      "why_innocent": "Shared address is a commercial building, not an employee's home; both are real freight companies with carta porte on every invoice.",
+      "invoices": []
+    },
+    {
+      "entity": "RFC:BNW120625NY2",
+      "signal": "Large one-off service invoice, no goods receipt, paid in days",
+      "why_innocent": "Law firm; invoice cites a court case number; approved by the director, not purchasing; no 69-B match; no related-party links.",
+      "invoices": [
+        "809BD813-4F13-823B-51F4-A72499503858"
+      ]
+    },
+    {
+      "entity": "RFC:DGQ240803D6V",
+      "signal": "Cash payments (forma_pago 01)",
+      "why_innocent": "Each cash invoice is under the MXN 2,000 deductibility threshold (LISR Art. 27-III); goods received.",
+      "invoices": []
+    }
+  ],
+  "control_observations": [
+    {
+      "entities": [
+        "RFC:PMN121218LZJ"
+      ],
+      "supporting_invoices": [
+        "13325C31-D010-318A-EADC-9960424211E2",
+        "1EE89A4C-6811-34E2-5064-7C59774F6354",
+        "97867B12-1328-1726-64F4-34D6D1E91691"
+      ],
+      "supporting_txns": [
+        "TX00045",
+        "TX00100",
+        "TX00497",
+        "TX00530",
+        "TX00552",
+        "TX00612"
+      ],
+      "peso_amount": 484288.28,
+      "type": "duplicate_invoice_payment",
+      "description": "Genuine invoices paid twice; second payment went to a CLABE not on the supplier master and was booked straight to expense instead of AP."
+    }
+  ]
+}

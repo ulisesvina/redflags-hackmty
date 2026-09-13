@@ -1,0 +1,17 @@
+employee_id,name,rfc,role,home_street,home_city,personal_clabe
+E00001,Ana Salinas,SAAX660820RAP,Director General,Blvd. Díaz Ordaz 3889,"Apodaca, NL",014698930111181392
+E00002,Carla Rodríguez,ROCX6303024K5,Gerente de Compras,Av. Universidad 500,"Santa Catarina, NL",072698660846736410
+E00003,Raúl Martínez,MARX711120C9X,Contador,Av. Sendero 2296,"Apodaca, NL",014479709601061815
+E00004,Iván Martínez,MAIX670324A13,Jefe de Almacén,Blvd. Díaz Ordaz 120,"Monterrey, NL",058374978837029465
+E00005,Héctor Sada,SAHX630318G3Z,Supervisor de Producción,Calle Zaragoza 3359,"Apodaca, NL",002692123924005659
+E00006,Emilio Hernández,HEEX7403151FA,Supervisor de Producción,Av. Sendero 2930,"Apodaca, NL",127254311135512204
+E00007,Héctor López,LÓHX8004010RX,Ventas,Av. Lázaro Cárdenas 2882,"San Nicolás de los Garza, NL",014547939745448066
+E00008,Jorge García,GAJX740407V0S,Ventas,Av. Universidad 822,"San Pedro Garza García, NL",014194046413313938
+E00009,Diego Cantú,CADX7907083KW,Operador,Av. Lázaro Cárdenas 1592,"Apodaca, NL",012311166571935981
+E00010,Emilio Montemayor,MOEX8705171JF,Operador,Blvd. Díaz Ordaz 947,"San Pedro Garza García, NL",127505655907401740
+E00011,Regina Sada,SARX820103J7D,Operador,Av. Lázaro Cárdenas 1307,"San Nicolás de los Garza, NL",072816284060896270
+E00012,María Hernández,HEMX99092242Y,Operador,Av. Garza Sada 316,"Monterrey, NL",014267637468645248
+E00013,Daniela García,GADX6210061EP,Operador,Av. Miguel Alemán 1366,"Guadalupe, NL",021108968349233195
+E00014,María Sada,SAMX660918739,Operador,Av. Ruiz Cortines 625,"San Nicolás de los Garza, NL",014753654700028504
+E00015,Ana Hernández,HEAX770603M2H,Administrativo,Av. Constitución 2579,"San Pedro Garza García, NL",002434945114425244
+E00016,Raúl Zambrano,ZARX990917Z16,Administrativo,Av. Garza Sada 987,"San Pedro Garza García, NL",127287349071136355

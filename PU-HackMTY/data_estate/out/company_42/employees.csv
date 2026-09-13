@@ -1,0 +1,17 @@
+employee_id,name,rfc,role,home_street,home_city,personal_clabe
+E00001,María García,GAMX681204Y6D,Director General,Av. Garza Sada 2106,"San Nicolás de los Garza, NL",021002657744287142
+E00002,Diego Zambrano,ZADX660628MJB,Gerente de Compras,Av. Universidad 859,"Guadalupe, NL",021593586857022021
+E00003,Héctor Lozano,LOHX820422J7X,Contador,Calle Zaragoza 1432,"Apodaca, NL",072652429623708840
+E00004,Óscar Zambrano,ZAÓX890309F0T,Jefe de Almacén,Av. Lincoln 4189,"Guadalupe, NL",127583295001674039
+E00005,Emilio Villarreal,VIEX67111811M,Supervisor de Producción,Av. Miguel Alemán 194,"General Escobedo, NL",014449825198266175
+E00006,Emilio García,GAEX61021253L,Supervisor de Producción,Av. Sendero 2755,"Guadalupe, NL",002250789516915699
+E00007,Diego Salinas,SADX930804ICA,Ventas,Av. Constitución 3159,"Guadalupe, NL",072220629802621954
+E00008,Daniela Sada,SADX870614O5B,Ventas,Av. Lincoln 872,"Monterrey, NL",127904382144229485
+E00009,Ana Quintanilla,QUAX750314RHO,Operador,Av. Ruiz Cortines 864,"San Pedro Garza García, NL",002103972677641207
+E00010,Ana Zambrano,ZAAX900928TCS,Operador,Av. Ruiz Cortines 510,"Santa Catarina, NL",058156218256455927
+E00011,Sofía Villarreal,VISX79081177A,Operador,Av. Constitución 1172,"General Escobedo, NL",072990229883187696
+E00012,Rodrigo Quintanilla,QURX7602040FK,Operador,Av. Garza Sada 948,"San Nicolás de los Garza, NL",012726249804207627
+E00013,Regina Sada,SARX641205T4U,Operador,Av. Miguel Alemán 179,"Monterrey, NL",012403990366358979
+E00014,Sofía Garza,GASX7112112OY,Operador,Blvd. Díaz Ordaz 3477,"Monterrey, NL",127827188284372013
+E00015,Luis Villarreal,VILX940601E8G,Administrativo,Calle Zaragoza 4273,"Guadalupe, NL",014053749181045869
+E00016,Diego Montemayor,MODX811011XE6,Administrativo,Av. Constitución 673,"General Escobedo, NL",072344214969635024

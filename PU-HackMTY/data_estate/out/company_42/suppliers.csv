@@ -1,0 +1,43 @@
+supplier_id,name,rfc,street,city,clabe,account_holder,category,onboarded,approved_by,status
+S00001,Servicios Guadalupe S de RL de CV,BTN8908152SD,Av. Ruiz Cortines 1527,"Apodaca, NL",072267963609841748,Servicios Guadalupe S de RL de CV,refacciones,2022-08-12,E00002,activo
+S00002,Grupo Nuevo León SAPI de CV,DBU231227UKE,Blvd. Díaz Ordaz 2276,"San Pedro Garza García, NL",127342545876026850,Grupo Nuevo León SAPI de CV,refacciones,2022-01-08,E00002,activo
+S00003,Ferretera de México SAPI de CV,BGD030823RBW,Av. Lázaro Cárdenas 3721,"San Pedro Garza García, NL",058215509941847528,Ferretera de México SAPI de CV,materia_prima,2024-04-18,E00002,activo
+S00004,Gestoría y Enlace San Nicolás S de RL de CV,EOK870428F5T,Av. Universidad 859,"Guadalupe, NL",127967249590173425,Gestoría y Enlace San Nicolás S de RL de CV,servicios,2025-03-03,E00002,activo
+S00005,Soldadura de México SAPI de CV,DFP890325WQU,Blvd. Díaz Ordaz 2035,"Monterrey, NL",072495668610432053,Soldadura de México SAPI de CV,renta_util,2024-01-26,E00002,activo
+S00006,Neumática Apodaca S de RL de CV,HQP910421HXF,Av. Garza Sada 4921,"Guadalupe, NL",012514640228022758,Neumática Apodaca S de RL de CV,servicios,2021-03-21,E00002,activo
+S00007,Refacciones San Nicolás S de RL de CV,SZC9707063JK,Av. Universidad 3248,"Guadalupe, NL",072633487067317933,Refacciones San Nicolás S de RL de CV,consumibles,2020-11-20,E00002,activo
+S00008,Aceros Santa Catarina SA de CV,OSD160228AKR,Av. Garza Sada 472,"Monterrey, NL",014109484060153917,Aceros Santa Catarina SA de CV,materia_prima,2021-07-13,E00002,activo
+S00009,Electrónica Industrial S de RL de CV,JMK241214132,Av. Universidad 3045,"Guadalupe, NL",002740935513325437,Electrónica Industrial S de RL de CV,refacciones,2025-06-02,E00002,activo
+S00010,Soldadura Industrial SA de CV,JPY870826UGV,Av. Universidad 4966,"Santa Catarina, NL",072101837512445132,Soldadura Industrial SA de CV,materia_prima,2023-08-02,E00002,activo
+S00011,Ferretera San Nicolás SA de CV,DGQ240803D6V,Av. Garza Sada 2046,"Apodaca, NL",002657203516539575,Ferretera San Nicolás SA de CV,consumibles,2019-03-25,E00002,activo
+S00012,Industrias Nuevo León SA de CV,FQZ88060892H,Av. Lázaro Cárdenas 850,"General Escobedo, NL",058722831908112160,Industrias Nuevo León SA de CV,materia_prima,2019-03-02,E00002,activo
+S00013,Aceros Apodaca S de RL de CV,LIP121209QK9,Av. Miguel Alemán 1394,"Monterrey, NL",058425592962567064,Aceros Apodaca S de RL de CV,refacciones,2022-03-18,E00002,activo
+S00014,Servicios Escobedo SAPI de CV,CZT910806Y6B,Av. Garza Sada 1963,"General Escobedo, NL",058034246116364526,Servicios Escobedo SAPI de CV,consumibles,2024-02-26,E00002,activo
+S00015,Aceros Regiomontana S de RL de CV,YNB000215EQT,Av. Lincoln 1540,"San Pedro Garza García, NL",072598675858742267,Aceros Regiomontana S de RL de CV,materia_prima,2024-06-07,E00002,activo
+S00016,Metálica Escobedo SAPI de CV,CRH230311CX7,Calle Zaragoza 639,"Apodaca, NL",014963593378687656,Metálica Escobedo SAPI de CV,servicios,2023-10-01,E00002,activo
+S00017,Servicios San Nicolás SAPI de CV,PMN121218LZJ,Av. Lincoln 2608,"General Escobedo, NL",014273796172575982,Servicios San Nicolás SAPI de CV,materia_prima,2023-01-18,E00002,activo
+S00018,Pinturas del Norte SAPI de CV,FBY870108HAF,Av. Miguel Alemán 526,"Apodaca, NL",012419423697713595,Pinturas del Norte SAPI de CV,logistica,2023-03-18,E00002,activo
+S00019,Herramientas Monterrey SA de CV,DGN090812Y08,Av. Ruiz Cortines 2593,"Guadalupe, NL",021578686926242393,Herramientas Monterrey SA de CV,consumibles,2023-01-09,E00002,activo
+S00020,Neumática Regiomontana SAPI de CV,COL040206DTB,Av. Constitución 1642,"Guadalupe, NL",127601932254303939,Neumática Regiomontana SAPI de CV,servicios,2024-10-23,E00002,activo
+S00021,Promotora Comercial Chapa SA de CV,OEF190714EHM,Av. Universidad 2779,"Apodaca, NL",012060226260847497,Promotora Comercial Chapa SA de CV,servicios,2025-04-01,E00002,activo
+S00022,Transportes Apodaca SAPI de CV,ZLV900812OLD,Av. Lázaro Cárdenas 2378,"San Nicolás de los Garza, NL",012362985433945965,Transportes Apodaca SAPI de CV,consumibles,2023-08-20,E00002,activo
+S00023,Aceros de México S de RL de CV,YMF930303K2S,Blvd. Díaz Ordaz 1854,"Apodaca, NL",072880371318781446,Aceros de México S de RL de CV,consumibles,2021-08-30,E00002,activo
+S00024,Grupo del Norte SAPI de CV,HTX0701065UO,Av. Garza Sada 337,"San Nicolás de los Garza, NL",012790534133958170,Grupo del Norte SAPI de CV,logistica,2019-12-01,E00002,activo
+S00025,Electrónica Regiomontana SAPI de CV,UWP921026BTX,Av. Lincoln 934,"General Escobedo, NL",002538819687479285,Electrónica Regiomontana SAPI de CV,refacciones,2024-06-03,E00002,activo
+S00026,Aceros Escobedo S de RL de CV,LPK240212P77,Av. Garza Sada 337,"San Nicolás de los Garza, NL",127897211558517365,Aceros Escobedo S de RL de CV,logistica,2024-03-27,E00002,activo
+S00027,Hidráulica Apodaca SAPI de CV,FNI920522YRY,Av. Lázaro Cárdenas 3492,"Apodaca, NL",002290297721441525,Hidráulica Apodaca SAPI de CV,refacciones,2022-12-21,E00002,activo
+S00028,Servicios Guadalupe S de RL de CV,GTT9311046XL,Av. Lincoln 1657,"Santa Catarina, NL",021031934278352199,Servicios Guadalupe S de RL de CV,servicios,2022-04-23,E00002,activo
+S00029,Maquinados Apodaca SA de CV,ZUX97062289Q,Av. Miguel Alemán 2059,"Apodaca, NL",014754116804397510,Maquinados Apodaca SA de CV,renta_util,2020-10-18,E00002,activo
+S00030,Metálica Santa Catarina SA de CV,IHV020423VE4,Calle Zaragoza 1710,"General Escobedo, NL",127790287445645713,Metálica Santa Catarina SA de CV,servicios,2024-12-02,E00002,activo
+S00031,Distribuidora Industrial S de RL de CV,WGM241113MRL,Av. Lincoln 809,"Apodaca, NL",021273872090747664,Distribuidora Industrial S de RL de CV,consumibles,2019-03-12,E00002,activo
+S00032,Refacciones Apodaca S de RL de CV,MXU951103KXW,Av. Lázaro Cárdenas 1850,"Santa Catarina, NL",002876210248046164,Refacciones Apodaca S de RL de CV,consumibles,2021-09-26,E00002,activo
+S00033,Grupo Guadalupe SA de CV,LAI101206479,Av. Lázaro Cárdenas 1897,"Apodaca, NL",072035061403237378,Grupo Guadalupe SA de CV,consumibles,2021-10-30,E00002,activo
+S00034,Pinturas San Nicolás S de RL de CV,DZI910804SQ0,Blvd. Díaz Ordaz 4157,"Monterrey, NL",021890726303659684,Pinturas San Nicolás S de RL de CV,materia_prima,2019-05-28,E00002,activo
+S00035,Grupo Monterrey S de RL de CV,WWH110626S3K,Av. Lincoln 4263,"General Escobedo, NL",014856844373989238,Grupo Monterrey S de RL de CV,materia_prima,2023-08-10,E00002,activo
+S00036,Rodríguez y Asociados SC,BNW120625NY2,Av. Sendero 113,"Apodaca, NL",072651083822612788,Rodríguez y Asociados SC,servicios,2019-05-21,E00001,activo
+S00037,Refacciones Regiomontana S de RL de CV,ZWS100912DOJ,Av. Universidad 1253,"San Pedro Garza García, NL",002466589120859208,Refacciones Regiomontana S de RL de CV,servicios,2022-05-22,E00002,activo
+S00038,Suministros Monterrey S de RL de CV,SJP030817VDZ,Av. Sendero 4895,"Santa Catarina, NL",058685848483733296,Suministros Monterrey S de RL de CV,consumibles,2024-04-26,E00002,activo
+S00039,Ferretera Monterrey S de RL de CV,LJA880717NNC,Av. Universidad 1918,"San Pedro Garza García, NL",012098671286174002,Ferretera Monterrey S de RL de CV,refacciones,2020-09-04,E00002,activo
+S00040,Metálica San Nicolás SA de CV,ILK110504O8G,Av. Lázaro Cárdenas 737,"San Pedro Garza García, NL",072463414408727065,Metálica San Nicolás SA de CV,materia_prima,2021-03-05,E00002,activo
+S00041,Suministros Regiomontana S de RL de CV,DBY200622EMX,Av. Universidad 3152,"San Pedro Garza García, NL",058490231514835122,Suministros Regiomontana S de RL de CV,materia_prima,2023-10-24,E00002,activo
+S00042,Industrias Apodaca SA de CV,IXC940413YZC,Av. Garza Sada 2020,"Apodaca, NL",021340837908549238,Industrias Apodaca SA de CV,consumibles,2023-09-13,E00002,activo

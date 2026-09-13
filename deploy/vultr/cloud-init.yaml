@@ -1,0 +1,20 @@
+#cloud-config
+# Replace REPOSITORY_URL before creating a Vultr Docker Marketplace instance.
+package_update: true
+packages:
+  - git
+  - docker-compose-plugin
+write_files:
+  - path: /opt/redflags/.env
+    permissions: "0600"
+    content: |
+      GEMINI_API_KEY=
+      MONGODB_URI=
+      MONGODB_DATABASE=redflags
+      SOLANA_SECRET_KEY=
+      SOLANA_NETWORK=devnet
+      VULTR_PUBLIC_URL=https://REPLACE_WITH_HOSTNAME
+runcmd:
+  - [sh, -lc, "git clone REPOSITORY_URL /opt/redflags/app"]
+  - [sh, -lc, "cp /opt/redflags/.env /opt/redflags/app/.env"]
+  - [sh, -lc, "cd /opt/redflags/app && docker compose up -d --build"]

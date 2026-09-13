@@ -1,0 +1,2 @@
+uuid,tipo,serie,folio,fecha,fecha_timbrado,rfc_emisor,nombre_emisor,rfc_receptor,nombre_receptor,uso_cfdi,forma_pago,metodo_pago,clave_prod_serv,descripcion,cantidad,valor_unitario,subtotal,iva,total,moneda,po_number,counterparty_id,approved_by,status
+INV-DEMO-001,I,A,1,2024-02-01,2024-02-01,SSI230101AA1,Servicios Sierra S.A. de C.V.,LNO240101AB1,Lumen Norte S.A. de C.V.,G03,03,PUE,81112100,Consultoria operativa,1,10000,10000,1600,11600,MXN,PO-DEMO-001,S00001,EMP0001,paid

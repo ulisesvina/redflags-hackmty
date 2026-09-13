@@ -1,0 +1,4 @@
+# The frozen dataset and any CSV must stay byte-exact on every OS (a checksum test guards company_42).
+data_estate/out/** -text
+*.csv -text
+*.pdf binary

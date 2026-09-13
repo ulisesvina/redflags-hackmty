@@ -1,0 +1,7 @@
+entry_id,date,account_code,account_name,debit,credit,description,invoice_uuid,cost_center,approver
+1,2026-02-15,5000,Gastos operativos,92800.00,0.00,Registro factura INV-0001,INV-0001,CC-100 Produccion,Ana Ruiz Medina
+2,2026-02-15,2100,Cuentas por pagar,0.00,92800.00,Registro factura INV-0001,INV-0001,CC-100 Produccion,Ana Ruiz Medina
+3,2026-02-27,5100,Mantenimiento,46400.00,0.00,Registro factura INV-0002,INV-0002,CC-200 Planta,Luis Ortega Salas
+4,2026-02-27,2100,Cuentas por pagar,0.00,46400.00,Registro factura INV-0002,INV-0002,CC-200 Planta,Luis Ortega Salas
+5,2026-03-05,1200,Clientes,174000.00,0.00,Registro venta INV-0003,INV-0003,CC-300 Ventas,Luis Ortega Salas
+6,2026-03-05,4000,Ingresos por ventas,0.00,174000.00,Registro venta INV-0003,INV-0003,CC-300 Ventas,Luis Ortega Salas

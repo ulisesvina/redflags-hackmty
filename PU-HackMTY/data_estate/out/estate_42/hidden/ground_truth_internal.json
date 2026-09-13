@@ -1,0 +1,229 @@
+{
+  "schemes": [
+    {
+      "type": "efos_fake_supplier",
+      "description": "Suppliers invoicing consulting services with no deliverables; both appear on SAT 69-B.",
+      "rule": "CFF Art. 69-B (operaciones inexistentes); CFF Art. 29-A; LISR Art. 27 (deducción improcedente)",
+      "entities": [
+        {
+          "supplier_id": "S00030",
+          "rfc": "IHV020423VE4",
+          "name": "Metálica Santa Catarina SA de CV",
+          "invoice_uuids": [
+            "8D783178-C935-A278-9645-DEC1840D214B",
+            "B2AC4768-F122-4F43-C527-4F356DC56044",
+            "4E39F65A-20DB-4294-DFAE-180393D797E7",
+            "C0AC1C00-AF8E-26B2-6CFB-F1736B4D3D1A",
+            "FA2C9E79-2758-4F1A-239E-5593EC11A44D"
+          ],
+          "bank_txn_ids": [
+            "TX00189",
+            "TX00078",
+            "TX00030",
+            "TX00312",
+            "TX00022"
+          ],
+          "efos_status": "Definitivo"
+        },
+        {
+          "supplier_id": "S00020",
+          "rfc": "COL040206DTB",
+          "name": "Neumática Regiomontana SAPI de CV",
+          "invoice_uuids": [
+            "E75182A4-F481-38B5-6395-09C4119A7396",
+            "4F70B88B-F06C-69D9-9339-304B9A8CB3D7",
+            "663463E9-D317-D8C9-1060-573A721B7707",
+            "1752815C-BCBF-1583-0A01-75E5937D6FB1",
+            "2CD51392-D98F-5E83-CF5B-294DD2CC4853"
+          ],
+          "bank_txn_ids": [
+            "TX00358",
+            "TX00375",
+            "TX00183",
+            "TX00434",
+            "TX00269"
+          ],
+          "efos_status": "Presunto"
+        }
+      ],
+      "amount_mxn": 2070600.0,
+      "how_to_prove": "RFC match on 69-B + invoices with no goods receipt/PO deliverable + paid within days."
+    },
+    {
+      "type": "kickback_shell",
+      "description": "Shell supplier registered at the purchasing manager's home address, approved by him, pays ~40% of every invoice to his personal account.",
+      "rule": "CFF Art. 69-B; LISR Art. 27-I (no estrictamente indispensable); conflict of interest / Ley General de Responsabilidades (private-sector bribery analog, Art. 7 fracc. IX of LFPIORPI where applicable)",
+      "entities": [
+        {
+          "supplier_id": "S00004",
+          "rfc": "EOK870428F5T",
+          "name": "Gestoría y Enlace San Nicolás S de RL de CV",
+          "employee_id": "E00002",
+          "employee_name": "Diego Zambrano",
+          "invoice_uuids": [
+            "BFEEB533-ACF5-9149-B1C9-D0DCA38CC35F",
+            "EAC97D37-B587-8D33-1D5B-D8B04027B283",
+            "23E7CD20-700E-A842-F334-685DB6AD478C",
+            "BDCF6FD4-88DF-12C1-1FC8-628D4B4D1079",
+            "08D16094-B6E3-B91B-3777-D8232D8D7DB8",
+            "71A91C81-4EEE-5680-B0BA-8FE363FF910D",
+            "3332432B-3D10-FA95-E8A4-42385FE8B710",
+            "38772265-102C-01A3-AB40-4598AE11D3C2"
+          ],
+          "bank_txn_ids": [
+            "TX00079",
+            "TX00086",
+            "TX00111",
+            "TX00112",
+            "TX00273",
+            "TX00341",
+            "TX00158",
+            "TX00438"
+          ],
+          "counterparty_record_ids": [
+            "CP00002",
+            "CP00003",
+            "CP00007",
+            "CP00008",
+            "CP00014",
+            "CP00016",
+            "CP00010",
+            "CP00020"
+          ]
+        }
+      ],
+      "amount_mxn": 575360.0,
+      "kickback_mxn": 230144.0,
+      "how_to_prove": "Supplier address == employee home address; approver == same employee; counterparty statement shows outflows to employee's personal CLABE."
+    },
+    {
+      "type": "round_trip_sales",
+      "description": "Cash leaves as 'marketing services', returns days later as a 'sale' to a customer that only ever pays with money it received from the supplier.",
+      "rule": "Simulación de operaciones (CFF Art. 69-B / 113 Bis); revenue recognition — fictitious sales",
+      "entities": [
+        {
+          "supplier_id": "S00021",
+          "supplier_rfc": "OEF190714EHM",
+          "customer_id": "C00005",
+          "customer_rfc": "PZS930606W5L",
+          "legs": [
+            {
+              "purchase_invoice": "7FAC89FE-5FE0-C7C3-2336-D60B0F571D6B",
+              "out_txn": "TX00424",
+              "forward_record": "CP00018",
+              "sales_invoice": "991B749E-B9AD-D00A-EC64-8A9B3CF1C29E",
+              "in_txn": "TX00435"
+            },
+            {
+              "purchase_invoice": "A4C31AF7-514A-36BF-4733-4B73225F52AB",
+              "out_txn": "TX00476",
+              "forward_record": "CP00022",
+              "sales_invoice": "54CE20EA-BB9D-92C0-D8D0-B8DB3AA06694",
+              "in_txn": "TX00485"
+            },
+            {
+              "purchase_invoice": "EAECF4E0-E819-09CE-0DD7-CAC28A1055C5",
+              "out_txn": "TX00266",
+              "forward_record": "CP00013",
+              "sales_invoice": "A1396D49-713E-9035-2EFC-D60C5256CD59",
+              "in_txn": "TX00279"
+            }
+          ]
+        }
+      ],
+      "amount_mxn": 1029000.0,
+      "how_to_prove": "Match amounts ±2% across out→forward→in within ~10 days; customer has no other trading history; supplier has no deliverables."
+    },
+    {
+      "type": "duplicate_invoice_payment",
+      "description": "Genuine invoices paid twice; second payment went to a CLABE not on the supplier master and was booked straight to expense instead of AP.",
+      "rule": "Control failure / possible embezzlement; LISR Art. 27 (deducción duplicada)",
+      "entities": [
+        {
+          "supplier_id": "S00017",
+          "rfc": "PMN121218LZJ",
+          "name": "Servicios San Nicolás SAPI de CV",
+          "alternate_clabe": "002612058920737212",
+          "payments": [
+            {
+              "invoice_uuid": "13325C31-D010-318A-EADC-9960424211E2",
+              "original_txn": "TX00552",
+              "duplicate_txn": "TX00612"
+            },
+            {
+              "invoice_uuid": "97867B12-1328-1726-64F4-34D6D1E91691",
+              "original_txn": "TX00045",
+              "duplicate_txn": "TX00100"
+            },
+            {
+              "invoice_uuid": "1EE89A4C-6811-34E2-5064-7C59774F6354",
+              "original_txn": "TX00497",
+              "duplicate_txn": "TX00530"
+            }
+          ]
+        }
+      ],
+      "amount_mxn": 484288.28,
+      "how_to_prove": "Two bank txns referencing the same UUID; second CLABE ≠ master; GL bypasses 2100.",
+      "note": "Supplier itself is honest — the accusation should target the payment, not the supplier."
+    }
+  ],
+  "decoys": [
+    {
+      "supplier_id": "S00009",
+      "rfc": "JMK241214132",
+      "name": "Electrónica Industrial S de RL de CV",
+      "looks_like": "New vendor + round amounts (EFOS smell)",
+      "why_honest": "Goods receipts exist for every invoice, warehouse-signed; not on 69-B; active RFC."
+    },
+    {
+      "supplier_id": "S00007",
+      "rfc": "SZC9707063JK",
+      "name": "Refacciones San Nicolás S de RL de CV",
+      "looks_like": "Name almost matches 69-B entry 'Refacciones San Nicolás S de RL de CV' (TAO890114RLQ)",
+      "why_honest": "69-B is matched on RFC, not name. RFC differs; deliveries documented."
+    },
+    {
+      "supplier_id": "S00026",
+      "rfc": "LPK240212P77",
+      "name": "Aceros Escobedo S de RL de CV",
+      "looks_like": "Shares address with Grupo del Norte SAPI de CV (S00024)",
+      "why_honest": "Shared address is a commercial building, not an employee's home; both are real freight companies with carta porte on every invoice."
+    },
+    {
+      "supplier_id": "S00036",
+      "rfc": "BNW120625NY2",
+      "name": "Rodríguez y Asociados SC",
+      "invoice_uuid": "809BD813-4F13-823B-51F4-A72499503858",
+      "looks_like": "Large one-off service invoice, no goods receipt, paid in days",
+      "why_honest": "Law firm; invoice cites a court case number; approved by the director, not purchasing; no 69-B match; no related-party links."
+    },
+    {
+      "supplier_id": "S00011",
+      "rfc": "DGQ240803D6V",
+      "name": "Ferretera San Nicolás SA de CV",
+      "looks_like": "Cash payments (forma_pago 01)",
+      "why_honest": "Each cash invoice is under the MXN 2,000 deductibility threshold (LISR Art. 27-III); goods received."
+    }
+  ],
+  "meta": {
+    "seed": 42,
+    "schemes": [
+      "efos",
+      "kickback",
+      "roundtrip",
+      "duplicate"
+    ],
+    "company": {
+      "name": "Talleres Industriales del Norte SA de CV",
+      "rfc": "TIN091214KL3",
+      "clabe": "012580001234567890",
+      "city": "Monterrey, NL"
+    },
+    "fiscal_year": [
+      "2025-01-01",
+      "2025-12-31"
+    ],
+    "total_planted_mxn": 4159248.28
+  }
+}

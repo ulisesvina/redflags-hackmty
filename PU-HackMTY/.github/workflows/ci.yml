@@ -1,0 +1,17 @@
+name: ci
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install pytest pandas
+      - run: if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - run: ruff check .
+      - run: python -m data_estate.validate data_estate/out/company_42
+      - run: python -m pytest -q
+      # The judges' own validator, on a submission this commit actually produces (#88).
+      - run: python -m agent.investigate data_estate/out/company_42 --no-llm --out /tmp/case.json --submission /tmp/submission.json
+      - run: python scripts/judges/validate_format.py --submission /tmp/submission.json

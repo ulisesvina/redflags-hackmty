@@ -1,0 +1,17 @@
+record_id,entity_name,entity_clabe,fecha,direction,amount,counterparty_name,counterparty_clabe,reference
+CP00001,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-04-02,in,74240.0,Talleres Industriales del Norte SA de CV,012580001234567890,PAGO FACT 43256
+CP00002,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-04-09,out,29696.0,Carla Rodríguez,072698660846736410,TRANSFERENCIA
+CP00003,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-04-12,in,74240.0,Talleres Industriales del Norte SA de CV,012580001234567890,PAGO FACT 2585
+CP00004,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-04-18,out,29696.0,Carla Rodríguez,072698660846736410,TRANSFERENCIA
+CP00005,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-04-18,in,55680.0,Talleres Industriales del Norte SA de CV,012580001234567890,PAGO FACT 70811
+CP00006,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-04-22,out,22272.0,Carla Rodríguez,072698660846736410,TRANSFERENCIA
+CP00007,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-06-23,in,55680.0,Talleres Industriales del Norte SA de CV,012580001234567890,PAGO FACT 46612
+CP00008,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-06-25,out,22272.0,Carla Rodríguez,072698660846736410,TRANSFERENCIA
+CP00009,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-07-29,in,74240.0,Talleres Industriales del Norte SA de CV,012580001234567890,PAGO FACT 5690
+CP00010,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-07-29,out,29696.0,Carla Rodríguez,072698660846736410,TRANSFERENCIA
+CP00011,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-08-23,in,148480.0,Talleres Industriales del Norte SA de CV,012580001234567890,PAGO FACT 37666
+CP00012,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-08-25,out,59392.0,Carla Rodríguez,072698660846736410,TRANSFERENCIA
+CP00013,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-08-31,in,148480.0,Talleres Industriales del Norte SA de CV,012580001234567890,PAGO FACT 74637
+CP00014,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-09-01,out,59392.0,Carla Rodríguez,072698660846736410,TRANSFERENCIA
+CP00015,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-11-10,in,55680.0,Talleres Industriales del Norte SA de CV,012580001234567890,PAGO FACT 75432
+CP00016,Gestoría y Enlace Santa Catarina S de RL de CV,021512607459151557,2025-11-11,out,22272.0,Carla Rodríguez,072698660846736410,TRANSFERENCIA

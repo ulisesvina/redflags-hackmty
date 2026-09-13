@@ -1,0 +1,158 @@
+{
+  "schemes": [
+    {
+      "type": "efos_fake_supplier",
+      "description": "Suppliers invoicing consulting services with no deliverables; both appear on SAT 69-B.",
+      "rule": "CFF Art. 69-B (operaciones inexistentes); CFF Art. 29-A; LISR Art. 27 (deducción improcedente)",
+      "entities": [
+        {
+          "supplier_id": "S00003",
+          "rfc": "PQK190120RM2",
+          "name": "Industrias del Norte S de RL de CV",
+          "invoice_uuids": [
+            "B8850C82-6074-EF4A-D2D4-91AB358FB814",
+            "BD9A7846-02FB-5D6B-BF80-5A8A9155CB16",
+            "28102817-0D97-9313-55E6-545D38271C18",
+            "6BE8189C-0137-E8EB-0787-65D4135848F0",
+            "CAB68F11-20EF-6518-D25A-CC24FA563B1D",
+            "CEE36492-450D-8DFB-FCE3-E47019D4103F",
+            "3104C9E4-F64E-D2D5-FB71-7900F1362AE0"
+          ],
+          "bank_txn_ids": [
+            "TX00160",
+            "TX00173",
+            "TX00133",
+            "TX00181",
+            "TX00445",
+            "TX00236",
+            "TX00166"
+          ],
+          "efos_status": "Definitivo"
+        },
+        {
+          "supplier_id": "S00041",
+          "rfc": "KPZ0809046NE",
+          "name": "Neumática Santa Catarina SAPI de CV",
+          "invoice_uuids": [
+            "F892DA4F-EC15-D1B3-9EDA-5F9A79ACC269",
+            "D4A4E0F6-507C-F4AE-43A6-7D09BF517E78",
+            "F5FC167B-7078-F31F-AD7E-C9EF6643E855",
+            "500F77B3-E0B7-7A92-BE7B-A6DDCE3D439D"
+          ],
+          "bank_txn_ids": [
+            "TX00017",
+            "TX00174",
+            "TX00218",
+            "TX00250"
+          ],
+          "efos_status": "Presunto"
+        }
+      ],
+      "amount_mxn": 1972000.0,
+      "how_to_prove": "RFC match on 69-B + invoices with no goods receipt/PO deliverable + paid within days."
+    },
+    {
+      "type": "kickback_shell",
+      "description": "Shell supplier registered at the purchasing manager's home address, approved by him, pays ~40% of every invoice to his personal account.",
+      "rule": "CFF Art. 69-B; LISR Art. 27-I (no estrictamente indispensable); conflict of interest / Ley General de Responsabilidades (private-sector bribery analog, Art. 7 fracc. IX of LFPIORPI where applicable)",
+      "entities": [
+        {
+          "supplier_id": "S00034",
+          "rfc": "RGL990201RM6",
+          "name": "Gestoría y Enlace Santa Catarina S de RL de CV",
+          "employee_id": "E00002",
+          "employee_name": "Carla Rodríguez",
+          "invoice_uuids": [
+            "B1D40CA2-EFC7-D97D-5CB3-33E4C7ECDF8A",
+            "CEADB30B-8745-A535-5ED2-A5093BCEE4BF",
+            "4856EB12-B048-B8F6-705F-7BAF5A923089",
+            "E795BD2A-A84B-39AE-8C11-7FCFA34DFAA9",
+            "3FE457D0-B985-4F64-F42E-8B759A608B3B",
+            "2982DF3B-D4B4-ED65-6847-9968666231EF",
+            "08A662F1-D18B-A4D0-ADEB-0C1AC133ADCE",
+            "690080D1-C7F3-13DC-BF7B-F4E127BC639B"
+          ],
+          "bank_txn_ids": [
+            "TX00352",
+            "TX00275",
+            "TX00545",
+            "TX00128",
+            "TX00419",
+            "TX00142",
+            "TX00407",
+            "TX00161"
+          ],
+          "counterparty_record_ids": [
+            "CP00010",
+            "CP00008",
+            "CP00016",
+            "CP00002",
+            "CP00014",
+            "CP00004",
+            "CP00012",
+            "CP00006"
+          ]
+        }
+      ],
+      "amount_mxn": 686720.0,
+      "kickback_mxn": 274688.0,
+      "how_to_prove": "Supplier address == employee home address; approver == same employee; counterparty statement shows outflows to employee's personal CLABE."
+    }
+  ],
+  "decoys": [
+    {
+      "supplier_id": "S00001",
+      "rfc": "KUG170614DEP",
+      "name": "Servicios de México SA de CV",
+      "looks_like": "New vendor + round amounts (EFOS smell)",
+      "why_honest": "Goods receipts exist for every invoice, warehouse-signed; not on 69-B; active RFC."
+    },
+    {
+      "supplier_id": "S00004",
+      "rfc": "GER160625BPR",
+      "name": "Maquinados Regiomontana S de RL de CV",
+      "looks_like": "Name almost matches 69-B entry 'Maquinados Regiomontana S de RL de CV' (OMH230721907)",
+      "why_honest": "69-B is matched on RFC, not name. RFC differs; deliveries documented."
+    },
+    {
+      "supplier_id": "S00033",
+      "rfc": "LEJ901223H0C",
+      "name": "Herramientas Regiomontana SA de CV",
+      "looks_like": "Shares address with Soldadura Guadalupe S de RL de CV (S00011)",
+      "why_honest": "Shared address is a commercial building, not an employee's home; both are real freight companies with carta porte on every invoice."
+    },
+    {
+      "supplier_id": "S00014",
+      "rfc": "DHA150823MMY",
+      "name": "Treviño y Asociados SC",
+      "invoice_uuid": "F6466E33-2D1E-44B7-5C21-8211BA69FFF1",
+      "looks_like": "Large one-off service invoice, no goods receipt, paid in days",
+      "why_honest": "Law firm; invoice cites a court case number; approved by the director, not purchasing; no 69-B match; no related-party links."
+    },
+    {
+      "supplier_id": "S00029",
+      "rfc": "JCY220225DEO",
+      "name": "Soldadura Regiomontana S de RL de CV",
+      "looks_like": "Cash payments (forma_pago 01)",
+      "why_honest": "Each cash invoice is under the MXN 2,000 deductibility threshold (LISR Art. 27-III); goods received."
+    }
+  ],
+  "meta": {
+    "seed": 43,
+    "schemes": [
+      "efos",
+      "kickback"
+    ],
+    "company": {
+      "name": "Talleres Industriales del Norte SA de CV",
+      "rfc": "TIN091214KL3",
+      "clabe": "012580001234567890",
+      "city": "Monterrey, NL"
+    },
+    "fiscal_year": [
+      "2025-01-01",
+      "2025-12-31"
+    ],
+    "total_planted_mxn": 2658720.0
+  }
+}

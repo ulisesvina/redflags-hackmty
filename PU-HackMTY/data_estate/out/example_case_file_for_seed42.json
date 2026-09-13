@@ -1,0 +1,98 @@
+{
+ "findings": [
+  {
+   "scheme_type": "efos_fake_supplier",
+   "accused": [
+    "S00020",
+    "S00030"
+   ],
+   "rule": "CFF Art. 69-B (operaciones inexistentes); CFF Art. 29-A; LISR Art. 27 (deducci\u00f3n improcedente)",
+   "amount_mxn": 2070600.0,
+   "evidence": [
+    "8D783178-C935-A278-9645-DEC1840D214B",
+    "B2AC4768-F122-4F43-C527-4F356DC56044",
+    "4E39F65A-20DB-4294-DFAE-180393D797E7",
+    "C0AC1C00-AF8E-26B2-6CFB-F1736B4D3D1A",
+    "FA2C9E79-2758-4F1A-239E-5593EC11A44D",
+    "663463E9-D317-D8C9-1060-573A721B7707",
+    "2CD51392-D98F-5E83-CF5B-294DD2CC4853",
+    "E75182A4-F481-38B5-6395-09C4119A7396",
+    "4F70B88B-F06C-69D9-9339-304B9A8CB3D7",
+    "1752815C-BCBF-1583-0A01-75E5937D6FB1",
+    "TX00189"
+   ]
+  },
+  {
+   "scheme_type": "kickback_shell",
+   "accused": [
+    "S00004",
+    "E00002"
+   ],
+   "rule": "CFF Art. 69-B; LISR Art. 27-I (no estrictamente indispensable); conflict of interest / Ley General de Responsabilidades (private-sector bribery analog, Art. 7 fracc. IX of LFPIORPI where applicable)",
+   "amount_mxn": 575360.0,
+   "evidence": [
+    "BFEEB533-ACF5-9149-B1C9-D0DCA38CC35F",
+    "EAC97D37-B587-8D33-1D5B-D8B04027B283",
+    "23E7CD20-700E-A842-F334-685DB6AD478C",
+    "BDCF6FD4-88DF-12C1-1FC8-628D4B4D1079",
+    "08D16094-B6E3-B91B-3777-D8232D8D7DB8",
+    "71A91C81-4EEE-5680-B0BA-8FE363FF910D"
+   ]
+  },
+  {
+   "scheme_type": "round_trip_sales",
+   "accused": [
+    "S00021",
+    "C00005"
+   ],
+   "rule": "Simulaci\u00f3n de operaciones (CFF Art. 69-B / 113 Bis); revenue recognition \u2014 fictitious sales",
+   "amount_mxn": 1029000.0,
+   "evidence": [
+    "7FAC89FE-5FE0-C7C3-2336-D60B0F571D6B",
+    "TX00424",
+    "CP00018",
+    "991B749E-B9AD-D00A-EC64-8A9B3CF1C29E",
+    "TX00435",
+    "A4C31AF7-514A-36BF-4733-4B73225F52AB"
+   ]
+  },
+  {
+   "scheme_type": "duplicate_invoice_payment",
+   "accused": [
+    "S00017"
+   ],
+   "rule": "Control failure / possible embezzlement; LISR Art. 27 (deducci\u00f3n duplicada)",
+   "amount_mxn": 484288.28,
+   "evidence": [
+    "13325C31-D010-318A-EADC-9960424211E2",
+    "TX00552",
+    "TX00612",
+    "97867B12-1328-1726-64F4-34D6D1E91691",
+    "TX00045",
+    "TX00100"
+   ]
+  }
+ ],
+ "not_pursued": [
+  {
+   "entity": "S00009",
+   "reason": "Goods receipts exist for every invoice, warehouse-signed; not on 69-B; active RFC."
+  },
+  {
+   "entity": "S00007",
+   "reason": "69-B is matched on RFC, not name. RFC differs; deliveries documented."
+  },
+  {
+   "entity": "S00026",
+   "reason": "Shared address is a commercial building, not an employee's home; both are real freight companies with carta porte on every invoice."
+  },
+  {
+   "entity": "S00036",
+   "reason": "Law firm; invoice cites a court case number; approved by the director, not purchasing; no 69-B match; no related-party links."
+  },
+  {
+   "entity": "S00011",
+   "reason": "Each cash invoice is under the MXN 2,000 deductibility threshold (LISR Art. 27-III); goods received."
+  }
+ ]
+}

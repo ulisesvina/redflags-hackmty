@@ -1,0 +1,2 @@
+entry_id,fecha,account_code,account_name,debit,credit,descripcion,invoice_uuid,txn_id,cost_center,approver
+LED-DEMO-001,2024-02-05,6100,Professional services,11600,0,Consultoria operativa,INV-DEMO-001,TXN-DEMO-001,OPS,EMP0001

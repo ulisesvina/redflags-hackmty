@@ -1,0 +1,2 @@
+supplier_id,name,rfc,street,city,clabe,account_holder,category,onboarded,approved_by,status
+S00001,Servicios Sierra S.A. de C.V.,SSI230101AA1,Avenida del Sol 100,Monterrey,646180157000654321,Servicios Sierra S.A. de C.V.,professional,2024-01-15,EMP0001,active

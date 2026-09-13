@@ -1,0 +1,9 @@
+fastapi>=0.115
+uvicorn[standard]>=0.34
+python-multipart>=0.0.20
+pandas>=2.0
+openai>=1.40
+pymongo>=4.10
+solana>=0.36
+pytest>=8.0
+httpx>=0.28

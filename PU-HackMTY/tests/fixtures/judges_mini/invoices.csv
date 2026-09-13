@@ -1,0 +1,4 @@
+uuid,issuer_rfc,receiver_rfc,issue_date,subtotal,iva,total,concepto_text,uso_cfdi,forma_pago,metodo_pago,status
+INV-0001,AAAA010101AA1,EMP920101AB1,2026-02-15,80000.00,12800.00,92800.00,Servicios profesionales diversos,G03,03,PUE,vigente
+INV-0002,BBBB020202BB2,EMP920101AB1,2026-02-27,40000.00,6400.00,46400.00,Mantenimiento mensual de planta,G03,03,PUE,vigente
+INV-0003,EMP920101AB1,CCCC030303CC3,2026-03-05,150000.00,24000.00,174000.00,Venta de refacciones industriales,G01,03,PUE,vigente

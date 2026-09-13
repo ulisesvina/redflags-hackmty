@@ -1,0 +1,12 @@
+.git
+.next
+node_modules
+coverage
+**/.venv
+backend/runtime
+PU-HackMTY/.venv
+PU-HackMTY/.git
+PU-HackMTY/runs
+PU-HackMTY/**/__pycache__
+**/.DS_Store
+.env

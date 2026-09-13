@@ -1,0 +1,421 @@
+po_id,vendor_rfc,date,amount,requester,approver,description
+PO00001,CRH230311CX7,2025-02-20,178584.78,Héctor Lozano,Diego Zambrano,Servicios de limpieza
+PO00002,BGD030823RBW,2025-02-18,60610.58,Emilio García,Diego Zambrano,Lámina de acero cal. 14
+PO00003,LJA880717NNC,2025-06-27,22573.48,Óscar Zambrano,Diego Zambrano,Rodamientos SKF
+PO00004,BGD030823RBW,2025-11-04,225049.05,Héctor Lozano,Diego Zambrano,Placa de acero A36
+PO00005,HQP910421HXF,2025-09-05,111464.4,Héctor Lozano,Diego Zambrano,Consultoría de procesos
+PO00006,LPK240212P77,2025-11-19,17389.73,Ana Quintanilla,Diego Zambrano,Flete local — carta porte anexa
+PO00007,FBY870108HAF,2025-10-17,208083.58,Luis Villarreal,Diego Zambrano,Flete foráneo
+PO00008,HQP910421HXF,2025-11-16,42363.08,Sofía Garza,Diego Zambrano,Capacitación
+PO00009,WGM241113MRL,2025-07-29,54146.25,Óscar Zambrano,Diego Zambrano,Brocas HSS
+PO00010,FBY870108HAF,2025-11-15,152412.28,Sofía Villarreal,Diego Zambrano,Flete local
+PO00012,SZC9707063JK,2025-04-01,21978.36,Emilio García,Diego Zambrano,Electrodos 6013
+PO00013,OSD160228AKR,2025-03-20,198450.25,Ana Zambrano,Diego Zambrano,Perfil PTR 2x2
+PO00014,DBY200622EMX,2025-09-11,21866.58,Ana Quintanilla,Diego Zambrano,Perfil PTR 2x2
+PO00015,WWH110626S3K,2025-12-08,22921.6,Emilio García,Diego Zambrano,Tubo estructural
+PO00016,PMN121218LZJ,2025-03-04,73616.38,Emilio García,Diego Zambrano,Lámina de acero cal. 14
+PO00017,FBY870108HAF,2025-04-27,167144.98,Emilio Villarreal,Diego Zambrano,Maniobras de carga
+PO00018,YMF930303K2S,2025-09-30,10344.65,Ana Zambrano,Diego Zambrano,Electrodos 6013
+PO00019,DFP890325WQU,2025-02-06,19824.28,Regina Sada,Diego Zambrano,Renta de nave industrial
+PO00020,WWH110626S3K,2025-11-03,23745.08,Sofía Villarreal,Diego Zambrano,Placa de acero A36
+PO00021,LJA880717NNC,2025-08-27,49775.48,Sofía Garza,Diego Zambrano,Rodamientos SKF
+PO00022,WWH110626S3K,2025-10-03,18316.28,Luis Villarreal,Diego Zambrano,Lámina de acero cal. 14
+PO00023,DFP890325WQU,2025-09-14,29150.68,Daniela Sada,Diego Zambrano,Renta de montacargas
+PO00024,CRH230311CX7,2025-01-30,160938.4,Héctor Lozano,Diego Zambrano,Servicios de limpieza
+PO00025,FQZ88060892H,2025-11-29,52084.58,Héctor Lozano,Diego Zambrano,Barra redonda 1018
+PO00026,OSD160228AKR,2025-03-28,218785.05,Rodrigo Quintanilla,Diego Zambrano,Barra redonda 1018
+PO00027,WGM241113MRL,2025-11-17,34147.85,Luis Villarreal,Diego Zambrano,Discos de corte
+PO00028,IXC940413YZC,2025-06-06,34208.28,Daniela Sada,Diego Zambrano,Electrodos 6013
+PO00029,ZLV900812OLD,2025-07-19,59404.18,Sofía Garza,Diego Zambrano,Electrodos 6013
+PO00030,IXC940413YZC,2025-03-19,49639.18,Rodrigo Quintanilla,Diego Zambrano,Electrodos 6013
+PO00031,ZLV900812OLD,2025-08-02,243852.65,Ana Quintanilla,Diego Zambrano,Discos de corte
+PO00032,BGD030823RBW,2025-03-22,169501.98,Regina Sada,Diego Zambrano,Lámina de acero cal. 14
+PO00034,SJP030817VDZ,2025-02-28,45959.08,Rodrigo Quintanilla,Diego Zambrano,Solvente industrial
+PO00035,WWH110626S3K,2025-11-23,11762.28,Daniela Sada,Diego Zambrano,Lámina de acero cal. 14
+PO00036,UWP921026BTX,2025-04-02,11539.45,Diego Salinas,Diego Zambrano,Motor eléctrico 5HP
+PO00037,FNI920522YRY,2024-12-30,77873.58,Sofía Villarreal,Diego Zambrano,Sellos hidráulicos
+PO00038,LAI101206479,2025-02-13,56703.58,Daniela Sada,Diego Zambrano,Guantes de carnaza
+PO00039,ILK110504O8G,2025-12-06,120074.38,Rodrigo Quintanilla,Diego Zambrano,Perfil PTR 2x2
+PO00040,DBY200622EMX,2025-09-09,9836.68,Diego Salinas,Diego Zambrano,Barra redonda 1018
+PO00041,YNB000215EQT,2025-04-09,8711.48,Ana Quintanilla,Diego Zambrano,Lámina de acero cal. 14
+PO00042,UWP921026BTX,2025-11-20,14351.98,Luis Villarreal,Diego Zambrano,Bandas industriales
+PO00043,LPK240212P77,2025-11-25,16006.53,María García,Diego Zambrano,Flete local — carta porte anexa
+PO00044,YMF930303K2S,2025-09-05,11658.0,Sofía Garza,Diego Zambrano,Brocas HSS
+PO00045,ZUX97062289Q,2025-08-17,11428.78,Diego Salinas,Diego Zambrano,Servicio de energía
+PO00046,SJP030817VDZ,2025-09-24,116507.85,Ana Zambrano,Diego Zambrano,Electrodos 6013
+PO00047,DGN090812Y08,2025-05-08,80652.25,Rodrigo Quintanilla,Diego Zambrano,Discos de corte
+PO00048,WGM241113MRL,2025-07-20,15195.88,Emilio García,Diego Zambrano,Brocas HSS
+PO00050,MXU951103KXW,2025-05-08,107393.38,Luis Villarreal,Diego Zambrano,Solvente industrial
+PO00052,OSD160228AKR,2025-12-03,180243.58,Daniela Sada,Diego Zambrano,Perfil PTR 2x2
+PO00053,PMN121218LZJ,2025-12-11,138843.18,Daniela Sada,Diego Zambrano,Placa de acero A36
+PO00054,BTN8908152SD,2025-09-10,140348.98,Regina Sada,Diego Zambrano,Bandas industriales
+PO00055,ZLV900812OLD,2025-09-23,180122.25,Héctor Lozano,Diego Zambrano,Brocas HSS
+PO00056,ZLV900812OLD,2025-11-08,110768.4,Luis Villarreal,Diego Zambrano,Guantes de carnaza
+PO00057,SJP030817VDZ,2025-04-06,34333.45,Óscar Zambrano,Diego Zambrano,Solvente industrial
+PO00058,BGD030823RBW,2025-08-21,221688.18,Ana Quintanilla,Diego Zambrano,Lámina de acero cal. 14
+PO00059,DZI910804SQ0,2025-08-24,15543.88,Emilio García,Diego Zambrano,Lámina de acero cal. 14
+PO00060,LPK240212P77,2025-05-04,15454.75,Rodrigo Quintanilla,Diego Zambrano,Flete local — carta porte anexa
+PO00061,LJA880717NNC,2025-08-13,49856.8,Emilio Villarreal,Diego Zambrano,Sellos hidráulicos
+PO00062,LPK240212P77,2025-04-21,19772.11,María García,Diego Zambrano,Flete local — carta porte anexa
+PO00063,LPK240212P77,2025-03-26,19197.68,María García,Diego Zambrano,Flete local — carta porte anexa
+PO00064,DGQ240803D6V,2025-09-29,13908.98,Ana Zambrano,Diego Zambrano,Electrodos 6013
+PO00066,LJA880717NNC,2025-08-19,27570.65,Sofía Villarreal,Diego Zambrano,Bandas industriales
+PO00067,ZWS100912DOJ,2025-05-20,36783.6,María García,Diego Zambrano,Servicios de limpieza
+PO00068,ZLV900812OLD,2025-03-03,200181.08,Emilio Villarreal,Diego Zambrano,Electrodos 6013
+PO00069,DFP890325WQU,2025-12-06,10022.4,Héctor Lozano,Diego Zambrano,Renta de nave industrial
+PO00070,UWP921026BTX,2025-01-08,18736.78,Ana Zambrano,Diego Zambrano,Motor eléctrico 5HP
+PO00071,DZI910804SQ0,2025-11-27,11335.98,Emilio Villarreal,Diego Zambrano,Barra redonda 1018
+PO00072,JPY870826UGV,2025-02-24,72627.48,Sofía Villarreal,Diego Zambrano,Placa de acero A36
+PO00073,DFP890325WQU,2025-04-27,24316.38,Daniela Sada,Diego Zambrano,Servicio de energía
+PO00074,FNI920522YRY,2025-05-16,219532.78,Daniela Sada,Diego Zambrano,Motor eléctrico 5HP
+PO00075,BTN8908152SD,2025-08-15,164952.0,Ana Quintanilla,Diego Zambrano,Rodamientos SKF
+PO00076,ZLV900812OLD,2025-06-16,128226.28,Diego Salinas,Diego Zambrano,Brocas HSS
+PO00077,ZLV900812OLD,2025-08-20,83590.18,Regina Sada,Diego Zambrano,Discos de corte
+PO00078,UWP921026BTX,2025-12-13,25659.2,Luis Villarreal,Diego Zambrano,Motor eléctrico 5HP
+PO00079,HTX0701065UO,2025-11-14,82163.38,Héctor Lozano,Diego Zambrano,Flete local
+PO00080,HQP910421HXF,2025-05-23,112383.58,Diego Salinas,Diego Zambrano,Servicios de limpieza
+PO00081,DZI910804SQ0,2025-08-27,15242.4,Sofía Garza,Diego Zambrano,Barra redonda 1018
+PO00082,YNB000215EQT,2025-05-27,28419.88,Sofía Villarreal,Diego Zambrano,Placa de acero A36
+PO00083,ZUX97062289Q,2025-04-24,5031.85,Luis Villarreal,Diego Zambrano,Renta de nave industrial
+PO00084,ILK110504O8G,2025-02-23,58765.48,Daniela Sada,Diego Zambrano,Barra redonda 1018
+PO00085,PMN121218LZJ,2025-05-10,221815.2,Emilio Villarreal,Diego Zambrano,Placa de acero A36
+PO00086,LAI101206479,2025-12-08,217047.6,Sofía Villarreal,Diego Zambrano,Discos de corte
+PO00087,ZLV900812OLD,2025-05-20,144651.88,Daniela Sada,Diego Zambrano,Solvente industrial
+PO00088,YMF930303K2S,2025-03-04,10068.8,Ana Zambrano,Diego Zambrano,Guantes de carnaza
+PO00089,DGN090812Y08,2025-06-22,59424.25,Luis Villarreal,Diego Zambrano,Brocas HSS
+PO00090,BTN8908152SD,2025-01-18,118029.88,Ana Quintanilla,Diego Zambrano,Bandas industriales
+PO00091,DZI910804SQ0,2025-01-01,6449.48,Emilio Villarreal,Diego Zambrano,Tubo estructural
+PO00092,LAI101206479,2025-01-05,73265.48,Regina Sada,Diego Zambrano,Discos de corte
+PO00094,ZLV900812OLD,2025-10-21,149860.28,Sofía Garza,Diego Zambrano,Guantes de carnaza
+PO00096,ZLV900812OLD,2025-11-21,105641.08,Ana Zambrano,Diego Zambrano,Solvente industrial
+PO00097,DFP890325WQU,2025-07-02,9764.65,Daniela Sada,Diego Zambrano,Renta de montacargas
+PO00098,ZLV900812OLD,2025-02-18,184802.38,Daniela Sada,Diego Zambrano,Solvente industrial
+PO00099,FNI920522YRY,2025-03-24,227894.18,Óscar Zambrano,Diego Zambrano,Sellos hidráulicos
+PO00100,DGN090812Y08,2025-01-27,92103.88,María García,Diego Zambrano,Guantes de carnaza
+PO00101,ZLV900812OLD,2025-03-12,156496.18,Sofía Villarreal,Diego Zambrano,Discos de corte
+PO00102,WGM241113MRL,2024-12-29,25877.05,Daniela Sada,Diego Zambrano,Brocas HSS
+PO00103,WGM241113MRL,2025-11-22,21926.78,Diego Salinas,Diego Zambrano,Electrodos 6013
+PO00104,ZWS100912DOJ,2025-08-20,44024.78,Ana Quintanilla,Diego Zambrano,Asesoría fiscal
+PO00105,FNI920522YRY,2025-12-04,149092.25,María García,Diego Zambrano,Rodamientos SKF
+PO00106,LJA880717NNC,2025-04-08,30287.6,Emilio García,Diego Zambrano,Válvulas neumáticas
+PO00107,DGQ240803D6V,2025-05-07,12495.98,Diego Montemayor,Diego Zambrano,Brocas HSS
+PO00108,JPY870826UGV,2025-01-08,111580.4,Emilio García,Diego Zambrano,Placa de acero A36
+PO00109,WWH110626S3K,2025-08-18,22350.65,María García,Diego Zambrano,Tubo estructural
+PO00110,DZI910804SQ0,2025-01-01,11217.2,Ana Quintanilla,Diego Zambrano,Barra redonda 1018
+PO00111,DFP890325WQU,2025-02-08,10344.65,Diego Salinas,Diego Zambrano,Servicio de energía
+PO00112,OSD160228AKR,2025-08-04,86292.4,Luis Villarreal,Diego Zambrano,Tubo estructural
+PO00113,CZT910806Y6B,2025-05-04,45832.18,Diego Montemayor,Diego Zambrano,Discos de corte
+PO00114,BTN8908152SD,2025-06-15,122820.8,Diego Montemayor,Diego Zambrano,Sellos hidráulicos
+PO00115,BGD030823RBW,2025-12-02,144596.78,Luis Villarreal,Diego Zambrano,Tubo estructural
+PO00116,SZC9707063JK,2025-05-31,8550.72,Luis Villarreal,Diego Zambrano,Discos de corte
+PO00117,UWP921026BTX,2025-11-28,10046.18,Héctor Lozano,Diego Zambrano,Bandas industriales
+PO00118,CZT910806Y6B,2025-07-18,41948.38,Héctor Lozano,Diego Zambrano,Electrodos 6013
+PO00119,DBU231227UKE,2025-03-04,45576.28,Ana Quintanilla,Diego Zambrano,Rodamientos SKF
+PO00120,DZI910804SQ0,2025-11-14,3781.6,Óscar Zambrano,Diego Zambrano,Placa de acero A36
+PO00121,HQP910421HXF,2025-03-21,54671.38,Sofía Villarreal,Diego Zambrano,Asesoría fiscal
+PO00122,DFP890325WQU,2025-11-11,20207.08,Luis Villarreal,Diego Zambrano,Servicio de energía
+PO00123,ZWS100912DOJ,2025-11-30,50126.38,Luis Villarreal,Diego Zambrano,Servicios de limpieza
+PO00124,ZLV900812OLD,2025-02-28,224782.25,Héctor Lozano,Diego Zambrano,Solvente industrial
+PO00125,OSD160228AKR,2025-10-05,207979.18,Ana Quintanilla,Diego Zambrano,Barra redonda 1018
+PO00126,MXU951103KXW,2025-05-26,67674.98,Emilio García,Diego Zambrano,Guantes de carnaza
+PO00127,DBY200622EMX,2025-08-20,9166.78,Emilio García,Diego Zambrano,Placa de acero A36
+PO00128,CRH230311CX7,2025-05-19,181923.38,Óscar Zambrano,Diego Zambrano,Asesoría fiscal
+PO00129,DZI910804SQ0,2025-04-18,9512.58,María García,Diego Zambrano,Lámina de acero cal. 14
+PO00130,UWP921026BTX,2025-05-25,10396.38,Sofía Garza,Diego Zambrano,Motor eléctrico 5HP
+PO00131,ILK110504O8G,2025-04-11,194729.08,Ana Quintanilla,Diego Zambrano,Lámina de acero cal. 14
+PO00132,ZUX97062289Q,2025-11-23,8445.38,Óscar Zambrano,Diego Zambrano,Servicio de energía
+PO00133,OSD160228AKR,2025-08-25,158966.28,Óscar Zambrano,Diego Zambrano,Placa de acero A36
+PO00134,ILK110504O8G,2025-02-13,138794.58,Sofía Villarreal,Diego Zambrano,Barra redonda 1018
+PO00135,BGD030823RBW,2025-04-24,71082.25,Daniela Sada,Diego Zambrano,Barra redonda 1018
+PO00136,BGD030823RBW,2025-01-26,163534.25,Sofía Garza,Diego Zambrano,Barra redonda 1018
+PO00137,DGN090812Y08,2025-06-06,43291.2,Diego Montemayor,Diego Zambrano,Solvente industrial
+PO00138,FNI920522YRY,2025-01-15,120848.68,Sofía Villarreal,Diego Zambrano,Bandas industriales
+PO00139,DBY200622EMX,2025-05-27,25824.38,Sofía Garza,Diego Zambrano,Perfil PTR 2x2
+PO00140,BTN8908152SD,2025-06-23,124946.38,Sofía Garza,Diego Zambrano,Bandas industriales
+PO00141,DGQ240803D6V,2025-07-30,1793.0,Diego Montemayor,Diego Zambrano,Brocas HSS
+PO00142,DGN090812Y08,2025-08-14,51921.6,Héctor Lozano,Diego Zambrano,Electrodos 6013
+PO00143,ILK110504O8G,2025-10-07,74759.45,Regina Sada,Diego Zambrano,Placa de acero A36
+PO00144,WGM241113MRL,2025-05-29,49288.98,Óscar Zambrano,Diego Zambrano,Guantes de carnaza
+PO00145,FQZ88060892H,2025-08-14,71488.25,Óscar Zambrano,Diego Zambrano,Lámina de acero cal. 14
+PO00146,LIP121209QK9,2025-03-02,124212.68,Ana Quintanilla,Diego Zambrano,Bandas industriales
+PO00147,OSD160228AKR,2025-04-25,74411.45,Emilio Villarreal,Diego Zambrano,Barra redonda 1018
+PO00148,WWH110626S3K,2025-10-19,10787.88,Daniela Sada,Diego Zambrano,Tubo estructural
+PO00149,WGM241113MRL,2025-07-25,58559.58,Daniela Sada,Diego Zambrano,Brocas HSS
+PO00150,WGM241113MRL,2025-05-09,49624.8,Daniela Sada,Diego Zambrano,Discos de corte
+PO00151,CRH230311CX7,2025-05-01,207152.8,Ana Quintanilla,Diego Zambrano,Servicios de limpieza
+PO00152,ZWS100912DOJ,2025-11-20,32953.05,Héctor Lozano,Diego Zambrano,Consultoría de procesos
+PO00154,CRH230311CX7,2025-12-11,114700.8,Sofía Garza,Diego Zambrano,Servicio de mantenimiento
+PO00155,LAI101206479,2025-09-24,104889.98,Diego Montemayor,Diego Zambrano,Brocas HSS
+PO00156,LIP121209QK9,2025-10-01,57585.18,Sofía Garza,Diego Zambrano,Bandas industriales
+PO00157,FQZ88060892H,2025-01-21,117684.78,Diego Montemayor,Diego Zambrano,Tubo estructural
+PO00158,BGD030823RBW,2025-09-16,208535.98,Óscar Zambrano,Diego Zambrano,Lámina de acero cal. 14
+PO00159,OSD160228AKR,2025-03-23,90108.68,Sofía Garza,Diego Zambrano,Tubo estructural
+PO00160,BGD030823RBW,2025-08-10,77906.18,Emilio Villarreal,Diego Zambrano,Lámina de acero cal. 14
+PO00161,LJA880717NNC,2025-08-16,55830.68,Sofía Garza,Diego Zambrano,Rodamientos SKF
+PO00162,HTX0701065UO,2025-11-30,74237.45,Emilio Villarreal,Diego Zambrano,Flete foráneo
+PO00163,FQZ88060892H,2025-02-03,73451.2,Emilio Villarreal,Diego Zambrano,Tubo estructural
+PO00164,LIP121209QK9,2025-05-11,92164.78,María García,Diego Zambrano,Bandas industriales
+PO00165,ZLV900812OLD,2025-10-03,152412.98,Diego Salinas,Diego Zambrano,Guantes de carnaza
+PO00166,OSD160228AKR,2025-06-03,198733.98,María García,Diego Zambrano,Placa de acero A36
+PO00168,ZLV900812OLD,2025-08-17,129896.68,Luis Villarreal,Diego Zambrano,Brocas HSS
+PO00169,SJP030817VDZ,2025-03-12,98695.58,Héctor Lozano,Diego Zambrano,Guantes de carnaza
+PO00170,UWP921026BTX,2025-06-24,22748.18,Emilio Villarreal,Diego Zambrano,Bandas industriales
+PO00171,BTN8908152SD,2025-03-18,122331.05,Sofía Garza,Diego Zambrano,Bandas industriales
+PO00172,BGD030823RBW,2025-10-10,178953.78,Luis Villarreal,Diego Zambrano,Placa de acero A36
+PO00173,ZLV900812OLD,2025-06-25,230120.68,María García,Diego Zambrano,Brocas HSS
+PO00174,DGN090812Y08,2025-10-29,42943.2,Diego Salinas,Diego Zambrano,Electrodos 6013
+PO00175,DBU231227UKE,2025-08-31,42528.38,Diego Salinas,Diego Zambrano,Sellos hidráulicos
+PO00176,GTT9311046XL,2025-10-26,18200.28,Rodrigo Quintanilla,Diego Zambrano,Servicios de limpieza
+PO00177,HQP910421HXF,2025-02-09,66305.6,Diego Salinas,Diego Zambrano,Asesoría fiscal
+PO00178,HQP910421HXF,2025-07-11,107633.85,Óscar Zambrano,Diego Zambrano,Asesoría fiscal
+PO00179,FQZ88060892H,2025-04-17,48792.38,Diego Montemayor,Diego Zambrano,Lámina de acero cal. 14
+PO00180,WGM241113MRL,2025-02-12,44471.85,Óscar Zambrano,Diego Zambrano,Discos de corte
+PO00181,JPY870826UGV,2025-05-31,148607.48,Daniela Sada,Diego Zambrano,Placa de acero A36
+PO00182,LIP121209QK9,2025-04-14,201875.38,Sofía Villarreal,Diego Zambrano,Rodamientos SKF
+PO00183,GTT9311046XL,2025-05-25,17760.18,Ana Quintanilla,Diego Zambrano,Consultoría de procesos
+PO00184,ILK110504O8G,2025-11-30,67663.38,Regina Sada,Diego Zambrano,Placa de acero A36
+PO00185,YNB000215EQT,2025-10-05,12249.6,Ana Quintanilla,Diego Zambrano,Placa de acero A36
+PO00186,SJP030817VDZ,2025-06-01,116501.58,Diego Salinas,Diego Zambrano,Guantes de carnaza
+PO00187,YMF930303K2S,2025-04-06,9289.05,María García,Diego Zambrano,Brocas HSS
+PO00188,OSD160228AKR,2025-07-10,141123.05,Regina Sada,Diego Zambrano,Placa de acero A36
+PO00189,LPK240212P77,2025-02-23,6087.62,Sofía Garza,Diego Zambrano,Flete local — carta porte anexa
+PO00190,DGN090812Y08,2025-03-12,96175.6,Rodrigo Quintanilla,Diego Zambrano,Electrodos 6013
+PO00191,FNI920522YRY,2025-11-06,220913.18,Diego Montemayor,Diego Zambrano,Válvulas neumáticas
+PO00192,WGM241113MRL,2025-05-06,24429.6,Sofía Garza,Diego Zambrano,Guantes de carnaza
+PO00193,DGN090812Y08,2025-06-14,38720.68,Daniela Sada,Diego Zambrano,Discos de corte
+PO00194,BTN8908152SD,2025-04-25,94612.38,Emilio García,Diego Zambrano,Bandas industriales
+PO00195,HTX0701065UO,2025-06-03,58043.85,Ana Zambrano,Diego Zambrano,Flete foráneo
+PO00196,ILK110504O8G,2025-05-05,89067.58,Ana Quintanilla,Diego Zambrano,Barra redonda 1018
+PO00198,MXU951103KXW,2025-06-26,39521.08,María García,Diego Zambrano,Guantes de carnaza
+PO00199,DZI910804SQ0,2025-01-19,16463.18,Héctor Lozano,Diego Zambrano,Lámina de acero cal. 14
+PO00200,LIP121209QK9,2025-09-26,242414.25,Luis Villarreal,Diego Zambrano,Sellos hidráulicos
+PO00201,HQP910421HXF,2025-12-04,37273.58,Héctor Lozano,Diego Zambrano,Asesoría fiscal
+PO00202,DGQ240803D6V,2025-03-26,18943.38,Diego Montemayor,Diego Zambrano,Discos de corte
+PO00203,IXC940413YZC,2025-05-12,40034.38,Ana Zambrano,Diego Zambrano,Discos de corte
+PO00204,UWP921026BTX,2025-04-13,19664.78,Ana Quintanilla,Diego Zambrano,Motor eléctrico 5HP
+PO00205,ILK110504O8G,2025-04-17,118216.18,Daniela Sada,Diego Zambrano,Tubo estructural
+PO00206,WWH110626S3K,2025-06-18,12237.88,Ana Quintanilla,Diego Zambrano,Placa de acero A36
+PO00207,DGN090812Y08,2025-12-10,64647.38,Diego Salinas,Diego Zambrano,Brocas HSS
+PO00209,SJP030817VDZ,2025-01-31,94931.85,Luis Villarreal,Diego Zambrano,Electrodos 6013
+PO00210,ZLV900812OLD,2025-03-28,226051.98,Emilio Villarreal,Diego Zambrano,Brocas HSS
+PO00211,OSD160228AKR,2025-11-25,177547.05,Diego Salinas,Diego Zambrano,Placa de acero A36
+PO00212,WGM241113MRL,2025-07-17,17316.25,Emilio Villarreal,Diego Zambrano,Brocas HSS
+PO00213,OSD160228AKR,2025-06-09,234564.18,Diego Montemayor,Diego Zambrano,Placa de acero A36
+PO00214,ZLV900812OLD,2025-02-20,152795.08,María García,Diego Zambrano,Electrodos 6013
+PO00215,HTX0701065UO,2025-01-09,92950.68,Rodrigo Quintanilla,Diego Zambrano,Flete foráneo
+PO00216,BGD030823RBW,2025-07-25,64855.48,María García,Diego Zambrano,Lámina de acero cal. 14
+PO00217,YMF930303K2S,2025-01-21,8978.98,Daniela Sada,Diego Zambrano,Solvente industrial
+PO00218,FNI920522YRY,2025-06-06,193131.18,Ana Zambrano,Diego Zambrano,Rodamientos SKF
+PO00219,DZI910804SQ0,2025-03-19,12165.85,Regina Sada,Diego Zambrano,Lámina de acero cal. 14
+PO00220,PMN121218LZJ,2025-11-15,238391.6,Daniela Sada,Diego Zambrano,Barra redonda 1018
+PO00221,WGM241113MRL,2025-02-17,18957.18,Óscar Zambrano,Diego Zambrano,Brocas HSS
+PO00222,UWP921026BTX,2025-03-09,19450.65,Sofía Villarreal,Diego Zambrano,Válvulas neumáticas
+PO00224,ZLV900812OLD,2025-09-18,70307.6,Diego Montemayor,Diego Zambrano,Brocas HSS
+PO00225,WGM241113MRL,2025-07-03,16738.68,Héctor Lozano,Diego Zambrano,Electrodos 6013
+PO00226,ZWS100912DOJ,2025-06-15,34437.85,Emilio Villarreal,Diego Zambrano,Capacitación
+PO00227,HQP910421HXF,2025-07-27,42537.08,María García,Diego Zambrano,Asesoría fiscal
+PO00228,BNW120625NY2,2025-08-13,440800.0,Rodrigo Quintanilla,María García,Honorarios — litigio mercantil exp. 412/2025
+PO00229,LJA880717NNC,2025-11-11,13989.6,Ana Zambrano,Diego Zambrano,Motor eléctrico 5HP
+PO00230,PMN121218LZJ,2025-10-24,76919.6,María García,Diego Zambrano,Placa de acero A36
+PO00231,IXC940413YZC,2025-02-02,23199.88,Emilio Villarreal,Diego Zambrano,Solvente industrial
+PO00232,IXC940413YZC,2025-06-11,25241.48,Diego Montemayor,Diego Zambrano,Electrodos 6013
+PO00233,IXC940413YZC,2025-02-22,50353.05,Diego Montemayor,Diego Zambrano,Electrodos 6013
+PO00234,ILK110504O8G,2025-02-22,56480.4,Regina Sada,Diego Zambrano,Barra redonda 1018
+PO00235,ZLV900812OLD,2025-07-07,190167.85,Luis Villarreal,Diego Zambrano,Guantes de carnaza
+PO00236,WWH110626S3K,2025-01-28,15787.48,Rodrigo Quintanilla,Diego Zambrano,Lámina de acero cal. 14
+PO00237,IXC940413YZC,2025-11-20,17815.05,Regina Sada,Diego Zambrano,Brocas HSS
+PO00238,LIP121209QK9,2025-06-30,201549.88,Ana Zambrano,Diego Zambrano,Motor eléctrico 5HP
+PO00239,OSD160228AKR,2025-08-29,67572.78,Emilio Villarreal,Diego Zambrano,Perfil PTR 2x2
+PO00240,WWH110626S3K,2025-02-24,16471.88,Daniela Sada,Diego Zambrano,Tubo estructural
+PO00241,BGD030823RBW,2025-08-14,90259.6,Rodrigo Quintanilla,Diego Zambrano,Placa de acero A36
+PO00242,ZLV900812OLD,2025-05-06,99785.98,Diego Montemayor,Diego Zambrano,Brocas HSS
+PO00243,DGN090812Y08,2025-01-10,83529.05,Ana Quintanilla,Diego Zambrano,Guantes de carnaza
+PO00244,OSD160228AKR,2025-02-07,162284.0,Daniela Sada,Diego Zambrano,Tubo estructural
+PO00245,WWH110626S3K,2025-01-02,20555.08,Ana Zambrano,Diego Zambrano,Placa de acero A36
+PO00246,JMK241214132,2025-09-16,87000.0,Diego Salinas,Diego Zambrano,Rodamientos SKF
+PO00247,UWP921026BTX,2025-09-25,11080.78,Emilio García,Diego Zambrano,Sellos hidráulicos
+PO00249,HQP910421HXF,2025-08-11,32233.85,Ana Zambrano,Diego Zambrano,Servicios de limpieza
+PO00250,OSD160228AKR,2025-02-17,220657.98,Luis Villarreal,Diego Zambrano,Lámina de acero cal. 14
+PO00251,SZC9707063JK,2025-09-21,12146.92,María García,Diego Zambrano,Electrodos 6013
+PO00252,JPY870826UGV,2025-06-19,187758.18,Héctor Lozano,Diego Zambrano,Tubo estructural
+PO00253,WGM241113MRL,2025-07-14,28315.6,Óscar Zambrano,Diego Zambrano,Electrodos 6013
+PO00254,IXC940413YZC,2025-08-21,32213.08,Diego Salinas,Diego Zambrano,Solvente industrial
+PO00255,UWP921026BTX,2025-04-17,14085.18,Daniela Sada,Diego Zambrano,Bandas industriales
+PO00256,DZI910804SQ0,2025-11-04,16655.05,María García,Diego Zambrano,Placa de acero A36
+PO00257,UWP921026BTX,2025-12-02,24177.18,Ana Zambrano,Diego Zambrano,Válvulas neumáticas
+PO00258,UWP921026BTX,2025-09-08,29496.25,Diego Montemayor,Diego Zambrano,Válvulas neumáticas
+PO00259,PMN121218LZJ,2025-04-23,137494.8,Daniela Sada,Diego Zambrano,Placa de acero A36
+PO00260,YMF930303K2S,2025-11-13,11670.18,Diego Salinas,Diego Zambrano,Discos de corte
+PO00261,SZC9707063JK,2025-02-02,11898.46,Ana Zambrano,Diego Zambrano,Discos de corte
+PO00262,JPY870826UGV,2025-02-26,173466.28,Héctor Lozano,Diego Zambrano,Placa de acero A36
+PO00263,BGD030823RBW,2025-05-25,95549.08,Ana Zambrano,Diego Zambrano,Lámina de acero cal. 14
+PO00264,BGD030823RBW,2025-06-15,244850.25,Sofía Garza,Diego Zambrano,Placa de acero A36
+PO00265,HQP910421HXF,2025-07-27,86791.2,Regina Sada,Diego Zambrano,Consultoría de procesos
+PO00266,DGQ240803D6V,2025-02-08,20123.45,Sofía Garza,Diego Zambrano,Discos de corte
+PO00267,LIP121209QK9,2025-05-06,95978.98,Héctor Lozano,Diego Zambrano,Bandas industriales
+PO00268,JPY870826UGV,2025-08-08,130143.18,Regina Sada,Diego Zambrano,Barra redonda 1018
+PO00269,WWH110626S3K,2025-05-16,27875.38,Luis Villarreal,Diego Zambrano,Barra redonda 1018
+PO00270,WGM241113MRL,2025-12-11,35600.4,Óscar Zambrano,Diego Zambrano,Brocas HSS
+PO00271,BTN8908152SD,2025-02-05,107610.65,Ana Quintanilla,Diego Zambrano,Sellos hidráulicos
+PO00272,DGQ240803D6V,2025-04-15,14465.08,Luis Villarreal,Diego Zambrano,Brocas HSS
+PO00273,SJP030817VDZ,2025-06-03,66363.48,Diego Salinas,Diego Zambrano,Solvente industrial
+PO00274,JPY870826UGV,2025-02-02,130293.98,Luis Villarreal,Diego Zambrano,Lámina de acero cal. 14
+PO00275,DGQ240803D6V,2025-03-21,20613.08,Emilio García,Diego Zambrano,Electrodos 6013
+PO00277,WGM241113MRL,2025-02-12,20740.8,Diego Salinas,Diego Zambrano,Solvente industrial
+PO00278,UWP921026BTX,2025-04-18,11971.2,Ana Quintanilla,Diego Zambrano,Válvulas neumáticas
+PO00279,YMF930303K2S,2025-06-04,14372.4,Regina Sada,Diego Zambrano,Guantes de carnaza
+PO00280,HQP910421HXF,2025-08-16,44683.78,Héctor Lozano,Diego Zambrano,Consultoría de procesos
+PO00281,SJP030817VDZ,2025-03-10,43802.18,Daniela Sada,Diego Zambrano,Discos de corte
+PO00282,ILK110504O8G,2025-12-07,181305.45,Héctor Lozano,Diego Zambrano,Perfil PTR 2x2
+PO00283,ILK110504O8G,2025-05-20,224379.38,Daniela Sada,Diego Zambrano,Perfil PTR 2x2
+PO00284,GTT9311046XL,2025-03-22,16634.4,Héctor Lozano,Diego Zambrano,Servicio de mantenimiento
+PO00285,DGQ240803D6V,2025-10-12,24986.98,Regina Sada,Diego Zambrano,Discos de corte
+PO00286,MXU951103KXW,2025-07-10,108066.18,Sofía Villarreal,Diego Zambrano,Guantes de carnaza
+PO00287,BTN8908152SD,2025-08-02,112192.65,Sofía Villarreal,Diego Zambrano,Bandas industriales
+PO00288,ZUX97062289Q,2025-01-20,15730.18,Sofía Villarreal,Diego Zambrano,Renta de nave industrial
+PO00289,FNI920522YRY,2025-04-15,191399.88,Óscar Zambrano,Diego Zambrano,Rodamientos SKF
+PO00290,WWH110626S3K,2025-11-26,7714.58,Rodrigo Quintanilla,Diego Zambrano,Barra redonda 1018
+PO00291,LIP121209QK9,2025-04-28,163951.85,Rodrigo Quintanilla,Diego Zambrano,Bandas industriales
+PO00292,IXC940413YZC,2025-09-30,45544.38,Diego Salinas,Diego Zambrano,Brocas HSS
+PO00294,SZC9707063JK,2025-08-31,6989.3,Ana Zambrano,Diego Zambrano,Discos de corte
+PO00295,LJA880717NNC,2025-05-23,43441.88,Óscar Zambrano,Diego Zambrano,Bandas industriales
+PO00296,JPY870826UGV,2025-08-12,124192.38,Ana Quintanilla,Diego Zambrano,Tubo estructural
+PO00297,UWP921026BTX,2025-12-06,15729.48,Emilio Villarreal,Diego Zambrano,Rodamientos SKF
+PO00298,BGD030823RBW,2025-02-25,204055.48,Emilio García,Diego Zambrano,Perfil PTR 2x2
+PO00299,GTT9311046XL,2025-02-10,9604.68,Héctor Lozano,Diego Zambrano,Consultoría de procesos
+PO00300,DGQ240803D6V,2025-11-11,27489.45,Emilio García,Diego Zambrano,Brocas HSS
+PO00301,SZC9707063JK,2025-03-28,20027.12,Luis Villarreal,Diego Zambrano,Electrodos 6013
+PO00302,UWP921026BTX,2025-10-05,19311.45,Diego Montemayor,Diego Zambrano,Motor eléctrico 5HP
+PO00303,ILK110504O8G,2025-11-04,168304.98,Sofía Villarreal,Diego Zambrano,Placa de acero A36
+PO00305,UWP921026BTX,2025-02-19,13606.68,Rodrigo Quintanilla,Diego Zambrano,Sellos hidráulicos
+PO00306,DZI910804SQ0,2025-07-04,11017.45,Emilio Villarreal,Diego Zambrano,Tubo estructural
+PO00307,LJA880717NNC,2025-12-06,59983.6,Rodrigo Quintanilla,Diego Zambrano,Bandas industriales
+PO00308,WWH110626S3K,2025-12-04,22295.78,Sofía Garza,Diego Zambrano,Perfil PTR 2x2
+PO00309,DFP890325WQU,2025-08-25,10463.08,Rodrigo Quintanilla,Diego Zambrano,Servicio de energía
+PO00310,WWH110626S3K,2025-07-23,20227.85,Diego Montemayor,Diego Zambrano,Lámina de acero cal. 14
+PO00311,JPY870826UGV,2025-11-17,88391.88,Emilio Villarreal,Diego Zambrano,Tubo estructural
+PO00312,FNI920522YRY,2025-12-04,190553.08,Héctor Lozano,Diego Zambrano,Válvulas neumáticas
+PO00313,PMN121218LZJ,2025-08-20,75539.78,María García,Diego Zambrano,Lámina de acero cal. 14
+PO00314,DZI910804SQ0,2025-10-15,4976.98,Héctor Lozano,Diego Zambrano,Tubo estructural
+PO00315,FNI920522YRY,2025-06-03,89798.38,Emilio García,Diego Zambrano,Rodamientos SKF
+PO00316,LAI101206479,2025-12-14,196921.48,Luis Villarreal,Diego Zambrano,Brocas HSS
+PO00317,HQP910421HXF,2025-09-03,115051.58,Óscar Zambrano,Diego Zambrano,Servicio de mantenimiento
+PO00318,WWH110626S3K,2025-08-16,24418.0,Luis Villarreal,Diego Zambrano,Lámina de acero cal. 14
+PO00319,ILK110504O8G,2025-10-24,136369.48,Emilio Villarreal,Diego Zambrano,Placa de acero A36
+PO00320,HQP910421HXF,2025-09-24,113517.6,María García,Diego Zambrano,Consultoría de procesos
+PO00321,LAI101206479,2025-05-12,208426.25,Diego Salinas,Diego Zambrano,Guantes de carnaza
+PO00322,DZI910804SQ0,2025-12-05,12261.08,María García,Diego Zambrano,Perfil PTR 2x2
+PO00323,LIP121209QK9,2025-02-03,71110.78,Óscar Zambrano,Diego Zambrano,Bandas industriales
+PO00324,DGQ240803D6V,2025-04-24,1821.72,Diego Salinas,Diego Zambrano,Discos de corte
+PO00325,UWP921026BTX,2025-12-02,28095.08,Luis Villarreal,Diego Zambrano,Sellos hidráulicos
+PO00326,WWH110626S3K,2025-07-02,10245.58,Óscar Zambrano,Diego Zambrano,Perfil PTR 2x2
+PO00327,LIP121209QK9,2025-11-12,156451.98,María García,Diego Zambrano,Motor eléctrico 5HP
+PO00328,ILK110504O8G,2025-10-22,57373.48,Diego Salinas,Diego Zambrano,Perfil PTR 2x2
+PO00329,SZC9707063JK,2025-11-06,8022.4,Óscar Zambrano,Diego Zambrano,Brocas HSS
+PO00330,LAI101206479,2025-09-13,220437.58,Emilio Villarreal,Diego Zambrano,Solvente industrial
+PO00332,WGM241113MRL,2025-11-27,28643.18,Diego Salinas,Diego Zambrano,Discos de corte
+PO00333,WGM241113MRL,2025-03-05,48094.18,Héctor Lozano,Diego Zambrano,Guantes de carnaza
+PO00334,DGQ240803D6V,2025-03-29,11959.6,Diego Salinas,Diego Zambrano,Brocas HSS
+PO00335,DGQ240803D6V,2025-08-31,1733.25,Diego Montemayor,Diego Zambrano,Electrodos 6013
+PO00336,CZT910806Y6B,2025-10-19,55955.85,Regina Sada,Diego Zambrano,Discos de corte
+PO00337,YMF930303K2S,2025-10-27,6853.05,Sofía Villarreal,Diego Zambrano,Discos de corte
+PO00338,LJA880717NNC,2025-11-18,52301.85,Diego Montemayor,Diego Zambrano,Válvulas neumáticas
+PO00339,DZI910804SQ0,2025-01-14,13163.45,Héctor Lozano,Diego Zambrano,Barra redonda 1018
+PO00340,CZT910806Y6B,2025-09-29,53649.88,Emilio García,Diego Zambrano,Brocas HSS
+PO00341,IXC940413YZC,2025-03-10,53174.4,Sofía Garza,Diego Zambrano,Solvente industrial
+PO00342,LAI101206479,2025-04-28,194648.0,Daniela Sada,Diego Zambrano,Brocas HSS
+PO00343,SZC9707063JK,2025-09-02,15743.18,Rodrigo Quintanilla,Diego Zambrano,Brocas HSS
+PO00344,WGM241113MRL,2025-10-15,52257.88,María García,Diego Zambrano,Electrodos 6013
+PO00345,WGM241113MRL,2025-02-07,29139.08,Óscar Zambrano,Diego Zambrano,Electrodos 6013
+PO00346,WGM241113MRL,2025-10-11,43314.28,Héctor Lozano,Diego Zambrano,Brocas HSS
+PO00347,PMN121218LZJ,2025-05-28,106560.38,Sofía Villarreal,Diego Zambrano,Perfil PTR 2x2
+PO00348,ZLV900812OLD,2025-04-11,204021.38,Rodrigo Quintanilla,Diego Zambrano,Solvente industrial
+PO00349,UWP921026BTX,2025-11-25,25279.18,Sofía Villarreal,Diego Zambrano,Rodamientos SKF
+PO00350,LAI101206479,2025-02-07,189071.18,Diego Montemayor,Diego Zambrano,Solvente industrial
+PO00351,DZI910804SQ0,2025-11-25,8746.28,Emilio García,Diego Zambrano,Lámina de acero cal. 14
+PO00352,DFP890325WQU,2025-09-09,17339.45,Óscar Zambrano,Diego Zambrano,Servicio de energía
+PO00353,WWH110626S3K,2025-11-06,19998.28,María García,Diego Zambrano,Lámina de acero cal. 14
+PO00354,ZLV900812OLD,2025-05-08,232461.45,Ana Quintanilla,Diego Zambrano,Guantes de carnaza
+PO00355,FNI920522YRY,2025-07-01,230596.4,Diego Salinas,Diego Zambrano,Motor eléctrico 5HP
+PO00356,JMK241214132,2025-09-18,87000.0,María García,Diego Zambrano,Sellos hidráulicos
+PO00357,FQZ88060892H,2025-01-20,99403.18,Rodrigo Quintanilla,Diego Zambrano,Lámina de acero cal. 14
+PO00358,LIP121209QK9,2025-06-30,126866.65,Daniela Sada,Diego Zambrano,Sellos hidráulicos
+PO00361,WGM241113MRL,2025-09-01,29870.0,Diego Montemayor,Diego Zambrano,Discos de corte
+PO00362,DBY200622EMX,2025-09-14,20068.0,Luis Villarreal,Diego Zambrano,Barra redonda 1018
+PO00363,BGD030823RBW,2025-07-21,136149.08,Ana Quintanilla,Diego Zambrano,Barra redonda 1018
+PO00364,WGM241113MRL,2025-06-04,20462.28,Ana Zambrano,Diego Zambrano,Guantes de carnaza
+PO00365,GTT9311046XL,2025-06-11,28057.85,Sofía Garza,Diego Zambrano,Asesoría fiscal
+PO00367,BGD030823RBW,2025-02-15,140035.78,Ana Quintanilla,Diego Zambrano,Perfil PTR 2x2
+PO00368,DBU231227UKE,2025-04-04,27315.45,Regina Sada,Diego Zambrano,Válvulas neumáticas
+PO00369,BTN8908152SD,2025-05-19,58359.6,Rodrigo Quintanilla,Diego Zambrano,Sellos hidráulicos
+PO00370,HQP910421HXF,2025-09-17,112334.4,Emilio García,Diego Zambrano,Asesoría fiscal
+PO00371,DZI910804SQ0,2025-08-14,11460.8,Héctor Lozano,Diego Zambrano,Placa de acero A36
+PO00372,ILK110504O8G,2025-08-02,166230.78,Diego Montemayor,Diego Zambrano,Barra redonda 1018
+PO00373,WWH110626S3K,2025-07-01,7989.85,Regina Sada,Diego Zambrano,Placa de acero A36
+PO00374,BGD030823RBW,2025-07-14,183929.48,María García,Diego Zambrano,Tubo estructural
+PO00375,JPY870826UGV,2025-05-18,107729.2,Rodrigo Quintanilla,Diego Zambrano,Tubo estructural
+PO00376,FBY870108HAF,2025-11-06,129725.58,Héctor Lozano,Diego Zambrano,Flete foráneo
+PO00377,WGM241113MRL,2025-04-27,16738.8,Sofía Villarreal,Diego Zambrano,Guantes de carnaza
+PO00378,GTT9311046XL,2025-04-19,26607.85,Diego Montemayor,Diego Zambrano,Capacitación
+PO00379,OSD160228AKR,2025-08-17,70040.8,Sofía Villarreal,Diego Zambrano,Tubo estructural
+PO00380,ILK110504O8G,2025-06-22,173478.58,Ana Zambrano,Diego Zambrano,Barra redonda 1018
+PO00381,ZWS100912DOJ,2025-02-20,27666.58,Sofía Garza,Diego Zambrano,Servicios de limpieza
+PO00382,JMK241214132,2025-08-01,58000.0,Daniela Sada,Diego Zambrano,Bandas industriales
+PO00383,PMN121218LZJ,2025-02-09,168977.08,Emilio García,Diego Zambrano,Placa de acero A36
+PO00384,JPY870826UGV,2025-11-18,151577.78,María García,Diego Zambrano,Barra redonda 1018
+PO00385,OSD160228AKR,2025-11-02,98843.48,Emilio García,Diego Zambrano,Lámina de acero cal. 14
+PO00386,YMF930303K2S,2025-03-01,6405.98,Sofía Villarreal,Diego Zambrano,Solvente industrial
+PO00387,DZI910804SQ0,2025-03-25,7064.98,Ana Zambrano,Diego Zambrano,Barra redonda 1018
+PO00388,FQZ88060892H,2025-06-07,110209.05,Sofía Garza,Diego Zambrano,Perfil PTR 2x2
+PO00389,JPY870826UGV,2025-09-24,223685.58,Ana Zambrano,Diego Zambrano,Lámina de acero cal. 14
+PO00390,ZLV900812OLD,2025-07-23,141566.4,María García,Diego Zambrano,Brocas HSS
+PO00391,CRH230311CX7,2025-03-16,192151.45,Diego Salinas,Diego Zambrano,Asesoría fiscal
+PO00392,ZWS100912DOJ,2025-04-19,52849.48,Sofía Villarreal,Diego Zambrano,Capacitación
+PO00393,FQZ88060892H,2025-02-08,98388.65,Ana Zambrano,Diego Zambrano,Placa de acero A36
+PO00394,FQZ88060892H,2025-12-04,69449.2,Sofía Villarreal,Diego Zambrano,Placa de acero A36
+PO00395,FNI920522YRY,2025-01-20,218442.38,Héctor Lozano,Diego Zambrano,Válvulas neumáticas
+PO00396,LJA880717NNC,2025-06-15,49764.0,Ana Zambrano,Diego Zambrano,Válvulas neumáticas
+PO00397,DGN090812Y08,2025-04-30,89519.98,Héctor Lozano,Diego Zambrano,Discos de corte
+PO00398,BGD030823RBW,2025-03-23,151690.65,Regina Sada,Diego Zambrano,Lámina de acero cal. 14
+PO00399,WWH110626S3K,2025-10-24,24838.38,Ana Zambrano,Diego Zambrano,Placa de acero A36
+PO00400,DBU231227UKE,2025-03-21,55518.18,Rodrigo Quintanilla,Diego Zambrano,Bandas industriales
+PO00401,LIP121209QK9,2025-03-02,191803.45,Ana Zambrano,Diego Zambrano,Sellos hidráulicos
+PO00402,DGQ240803D6V,2025-10-16,23315.88,Ana Quintanilla,Diego Zambrano,Guantes de carnaza
+PO00403,DGQ240803D6V,2025-09-14,25726.25,Sofía Garza,Diego Zambrano,Brocas HSS
+PO00404,DGQ240803D6V,2025-03-09,24450.25,Héctor Lozano,Diego Zambrano,Brocas HSS
+PO00405,IXC940413YZC,2025-02-05,59972.0,Daniela Sada,Diego Zambrano,Discos de corte
+PO00406,DFP890325WQU,2025-10-29,25334.28,Emilio Villarreal,Diego Zambrano,Servicio de energía
+PO00408,PMN121218LZJ,2025-05-01,244444.25,Ana Quintanilla,Diego Zambrano,Barra redonda 1018
+PO00409,YMF930303K2S,2025-02-02,5278.58,Daniela Sada,Diego Zambrano,Guantes de carnaza
+PO00410,HTX0701065UO,2025-05-02,29078.65,María García,Diego Zambrano,Flete foráneo
+PO00411,ZWS100912DOJ,2025-05-13,51712.8,Emilio Villarreal,Diego Zambrano,Asesoría fiscal
+PO00412,LIP121209QK9,2025-08-14,229097.45,Ana Zambrano,Diego Zambrano,Válvulas neumáticas
+PO00413,LIP121209QK9,2025-04-18,229984.38,Ana Quintanilla,Diego Zambrano,Bandas industriales
+PO00414,DBU231227UKE,2025-06-29,36285.38,Ana Zambrano,Diego Zambrano,Motor eléctrico 5HP
+PO00415,LJA880717NNC,2025-02-26,47928.65,Diego Salinas,Diego Zambrano,Bandas industriales
+PO00416,DZI910804SQ0,2025-03-15,8421.6,Diego Salinas,Diego Zambrano,Placa de acero A36
+PO00417,LAI101206479,2025-07-15,236712.38,Luis Villarreal,Diego Zambrano,Electrodos 6013
+PO00418,FQZ88060892H,2025-06-25,43061.98,Ana Zambrano,Diego Zambrano,Tubo estructural
+PO00419,LJA880717NNC,2025-10-24,56364.98,Regina Sada,Diego Zambrano,Bandas industriales
+PO00420,LJA880717NNC,2025-06-22,36075.88,Diego Montemayor,Diego Zambrano,Válvulas neumáticas
+PO00421,BTN8908152SD,2025-11-08,108596.65,Regina Sada,Diego Zambrano,Rodamientos SKF
+PO00422,BGD030823RBW,2025-11-14,175661.58,Daniela Sada,Diego Zambrano,Perfil PTR 2x2
+PO00423,HQP910421HXF,2025-07-20,81643.58,Sofía Villarreal,Diego Zambrano,Asesoría fiscal
+PO00424,JMK241214132,2025-06-21,87000.0,Óscar Zambrano,Diego Zambrano,Bandas industriales
+PO00425,FBY870108HAF,2025-06-15,173234.98,Diego Salinas,Diego Zambrano,Flete foráneo
+PO00426,FBY870108HAF,2025-01-31,88278.78,Héctor Lozano,Diego Zambrano,Flete foráneo
+PO00427,BTN8908152SD,2025-11-30,131054.25,Rodrigo Quintanilla,Diego Zambrano,Válvulas neumáticas
+PO00428,UWP921026BTX,2025-10-20,23861.08,Óscar Zambrano,Diego Zambrano,Motor eléctrico 5HP
+PO00429,CZT910806Y6B,2025-01-31,58823.48,Regina Sada,Diego Zambrano,Brocas HSS
+PO00430,UWP921026BTX,2025-05-10,12481.48,Rodrigo Quintanilla,Diego Zambrano,Válvulas neumáticas
+PO00431,DGQ240803D6V,2025-08-13,25065.05,Ana Zambrano,Diego Zambrano,Guantes de carnaza
+PO00432,LJA880717NNC,2025-10-12,50654.65,Ana Quintanilla,Diego Zambrano,Bandas industriales
+PO00433,FNI920522YRY,2025-06-23,235793.08,Ana Quintanilla,Diego Zambrano,Sellos hidráulicos
+PO00434,HQP910421HXF,2025-04-28,32686.25,Sofía Garza,Diego Zambrano,Capacitación
+PO00435,WWH110626S3K,2025-10-17,21181.48,Ana Quintanilla,Diego Zambrano,Placa de acero A36
+PO00436,BTN8908152SD,2025-08-31,177097.78,María García,Diego Zambrano,Rodamientos SKF
+PO00437,LIP121209QK9,2025-04-18,214319.05,Óscar Zambrano,Diego Zambrano,Rodamientos SKF
+PO00438,JPY870826UGV,2025-05-27,146682.0,Diego Montemayor,Diego Zambrano,Perfil PTR 2x2
+PO00439,ZUX97062289Q,2025-08-09,5707.08,Luis Villarreal,Diego Zambrano,Servicio de energía
+PO00440,YNB000215EQT,2025-09-10,8111.18,Rodrigo Quintanilla,Diego Zambrano,Perfil PTR 2x2
+PO00441,JMK241214132,2025-11-03,58000.0,Óscar Zambrano,Diego Zambrano,Bandas industriales

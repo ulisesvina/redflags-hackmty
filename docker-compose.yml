@@ -1,0 +1,39 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      CORS_ORIGINS: http://localhost:3000
+      FORENSIC_ENGINE_ROOT: /app/engine
+      FORENSIC_ENGINE_PYTHON: /usr/local/bin/python
+      CASE_STORAGE_ROOT: /app/backend/runtime/cases
+    ports:
+      - "8001:8001"
+    volumes:
+      - redflags-cases:/app/backend/runtime/cases
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8001/health')"]
+      interval: 10s
+      timeout: 3s
+      retries: 6
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        REDFLAGS_BACKEND_URL: http://api:8001
+    environment:
+      REDFLAGS_BACKEND_URL: http://api:8001
+    ports:
+      - "3000:3000"
+    depends_on:
+      api:
+        condition: service_healthy
+
+volumes:
+  redflags-cases:

@@ -1,0 +1,2 @@
+txn_id,fecha,account_clabe,direction,amount,counterparty_name,counterparty_clabe,reference,invoice_uuid,channel
+TXN-DEMO-001,2024-02-05,646180157000123456,out,11600,Servicios Sierra S.A. de C.V.,646180157000654321,INV-DEMO-001,INV-DEMO-001,SPEI
