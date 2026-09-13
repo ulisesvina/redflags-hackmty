@@ -20,7 +20,7 @@ export default function Page() {
               Get Started
             </Button>
             <Button
-              render={<Link href="/auth" />}
+              render={<Link href="/about" />}
               nativeButton={false}
               variant="outline"
               size="lg"
