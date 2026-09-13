@@ -7,7 +7,7 @@ services:
       - path: .env
         required: false
     environment:
-      CORS_ORIGINS: http://localhost:3000
+      CORS_ORIGINS: "http://localhost:3000,http://127.0.0.1:3000,http://2.29.11.106:3000"
       FORENSIC_ENGINE_ROOT: /app/engine
       FORENSIC_ENGINE_PYTHON: /usr/local/bin/python
       CASE_STORAGE_ROOT: /app/backend/runtime/cases
