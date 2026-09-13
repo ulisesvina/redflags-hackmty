@@ -2,6 +2,8 @@
 
 RedFlags turns company records into evidence-backed financial investigations. It waits for the full file set, follows suspicious peso flows, and reports only findings supported by source records.
 
+Git history for the backend can be found [here](https://github.com/filip-rs/PU-HackMTY).
+
 ## Run
 
 ```bash
